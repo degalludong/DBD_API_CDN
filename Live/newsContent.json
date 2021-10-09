@@ -1,0 +1,1133 @@
+{
+   "news":[
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5",
+            "switch"
+         ],
+         "description":"Now available in the store:<li>Leatherface &#45; Pretty Woman</li>",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"UI/Icons/NewContentSplash/splashBanner_GW1.png",
+         "isHidden":false,
+         "startDate":"2021-09-30T15:00:00",
+         "title":"Leatherface - Pretty Woman",
+         "type":2,
+         "version":"5.2.0",
+         "weight":2030.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5"
+         ],
+         "description":"Starting 11PM ET/8AM PT, follow us Into The Fog as three teams of five Fog Whisperers compete against each other, taking turns as Killers and Survivors. Hosted by Friskk with commentary by OhTofu and Otzdarva.<br/><br/>Watch it live on <a href=\"event:https://dbd.game/twitch\"><font color=\"#ff0000\"><u>Twitch</u></font></a> or <a href=\"event:https://dbd.game/YT\"><font color=\"#ff0000\"><u>YouTube</u></font></a>",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"UI/Icons/NewContentSplash/splashBanner_ITF.png",
+         "isHidden":false,
+         "startDate":"2021-09-23T15:00:00",
+         "title":"INTO THE FOG",
+         "type":4,
+         "version":"5.2.0",
+         "weight":2024.0
+      },
+      {
+         "contentTags":[
+            "switch"
+         ],
+         "description":"Starting 11PM ET/8AM PT, follow us Into The Fog as three teams of five Fog Whisperers compete against each other, taking turns as Killers and Survivors. Hosted by Friskk with commentary by OhTofu and Otzdarva.<br/><br/>Watch it live on Twitch or YouTube.",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"UI/Icons/NewContentSplash/splashBanner_ITF.png",
+         "isHidden":false,
+         "startDate":"2021-09-23T15:00:00",
+         "title":"INTO THE FOG",
+         "type":4,
+         "version":"5.2.0",
+         "weight":2024.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5",
+            "switch"
+         ],
+         "description":"Now available in the store:<li>Felix - Suiting Architect</li><li>Elodie - Gala Imposter</li><li>Meg - Jewel of the Party</li><li>Claudette - Glitz & Glamour</li>",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"UI/Icons/NewContentSplash/splashBanner_GAS.png",
+         "isHidden":false,
+         "startDate":"2021-09-23T15:00:00",
+         "title":"Gold & Silk Collection",
+         "type":2,
+         "version":"5.2.0",
+         "weight":2025.0
+      },
+      {
+         "contentTags":[
+            "switch"
+         ],
+         "description":"The game client has been updated to the 5.2.2 bugfix.<br/><br/><span class=\"Heading2\">Content</span><br/><li>Reverted the pallet to the old visual, will be re-updated in the future</li><br/><br/><span class=\"Heading2\">Bug Fixes</span><br/><li>Fixed an issue that caused several Cenobite scoring events to incorrectly count as Bonus BP</li><li>Fixed an issue with the Nemesis\\' move speed while charging Level 3 Tentacle Strike</li><li>Fixed an issue that caused players to not always receive disconnection penalties when leaving a match as Killer</li><li>Fixed an issue that caused the Engineer\\'s Guild archive quest not to progress</li><br/><br/><span class=\"Heading2\">Known Issues</span><br/><li>The Dead Dawg Saloon map is disabled and is planned to be fixed for the next update</li><br/><br/>Please see forum.deadbydaylight.com/en/kb/patchnotes for full patch notes.",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"",
+         "isHidden":false,
+         "startDate":"2021-09-21T15:00:00",
+         "title":"5.2.2 BUGFIX",
+         "type":4,
+         "version":"5.2.2",
+         "weight":2023.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5"
+         ],
+         "description":"The game client has been updated to the 5.2.2 bugfix.<br/><br/><span class=\"Heading2\">Content</span><br/><li>Reverted the pallet to the old visual, will be re-updated in the future</li><br/><br/><span class=\"Heading2\">Bug Fixes</span><br/><li>Fixed an issue that caused several Cenobite scoring events to incorrectly count as Bonus BP</li><li>Fixed an issue with the Nemesis\\' move speed while charging Level 3 Tentacle Strike</li><li>Fixed an issue that caused players to not always receive disconnection penalties when leaving a match as Killer</li><li>Fixed an issue that caused the Engineer\\'s Guild archive quest not to progress</li><br/><br/><span class=\"Heading2\">Known Issues</span><br/><li>The Dead Dawg Saloon map is disabled and is planned to be fixed for the next update</li><br/><br/>Please see <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>forum.deadbydaylight.com/en/kb/patchnotes</u></font></a> for full patch notes.",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"",
+         "isHidden":false,
+         "startDate":"2021-09-21T15:00:00",
+         "title":"5.2.2 BUGFIX",
+         "type":4,
+         "version":"5.2.2",
+         "weight":2023.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5",
+            "switch"
+         ],
+         "description":"Due to a bug found, we have temporarily disabled the following map:<li>Dead Dawg Saloon</li>",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"",
+         "isHidden":false,
+         "startDate":"2021-09-17T15:00:00",
+         "title":"MAP DISABLED",
+         "type":4,
+         "version":"5.2.0",
+         "weight":2022.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5",
+            "switch"
+         ],
+         "description":"Now available in the store:<li>The Trickster - Fire Moon Performer</li><li>Yun-Jin - Fire Moon Mourner</li><li>Zarina - Fire Moon Concert Goer</li><li>The Oni - Fire Moon Warrior</li>",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"UI/Icons/NewContentSplash/splashBanner_BMN.png",
+         "isHidden":false,
+         "startDate":"2021-09-16T15:00:00",
+         "title":"Fire Moon Festival Collection",
+         "type":2,
+         "version":"5.2.0",
+         "weight":2021.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5",
+            "switch"
+         ],
+         "description":"Level IV of Tome VIII is now available! With it comes the below:<li>20 Challenges (incl. 5 Master Challenges & 2 Glyph Challenges)</li><li>5 Memory and Log Entries (including the final entries for The Observer&#39;s Logs in &#34;Midnight in the Garden of Infinity&#34;)</li><li>More Bloodpoints</li><br/><br/>To access Level IV&#44; you must have reached the Epilogue node of Level III with either role.",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"UI/Icons/NewContentSplash/splashBanner_AR8.png",
+         "isHidden":false,
+         "startDate":"2021-09-15T15:00:00",
+         "title":"THE OBSERVER&#39;S ENTRIES",
+         "type":4,
+         "version":"5.1.1",
+         "weight":2020.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5",
+            "switch"
+         ],
+         "description":"The game client has been updated to the 5.2.1 bugfix.<br/><br/><span class=\"Heading2\">Content</span><br/><li>The Dead Dawg Saloon and Raccoon City Police Station maps have been re-enabled</li><b>Pinhead</b><li>Clusters of Chains targeting the Survivor carrying the Lament Configuration during Chain Hunt will respawn as soon as the interaction is stopped if the Survivor does not complete the Solve interaction</li><li>Teleport interaction will prioritize a location on the same level as the Survivor solving the puzzle box</li><br/><br/><span class=\"Heading2\">Bug Fixes</span><br/><li>Fixed issues that caused Steam Family Share to no longer share DLC, caused DLC to disappear on PS4 and PS5 accounts & caused Cross Progression between Steam and Stadia to no longer share DLC</li><li>Fixed an issue that caused the killer to be unable to pick up survivors downed while working on one of the short sides of a generator or downed while trying to enter an occupied locker</li><li>Fixed an issue that caused progress towards the Punch Drunk achievement not to be tracked</li><li>Various collision issues</li><br/><br/><span class=\"Heading2\">Known Issues</span><br/><li>The Cenobites chase music fails to restart after using Summons of Pain</li><br/><br/>Please see <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>forum.deadbydaylight.com/en/kb/patchnotes</u></font></a> for full patch notes.",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"",
+         "isHidden":false,
+         "startDate":"2021-09-14T15:00:00",
+         "title":"5.2.1 BUGFIX",
+         "type":4,
+         "version":"5.2.1",
+         "weight":2008.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5",
+            "switch"
+         ],
+         "description":"We've heard reports of some issues with the most recent Grade Reset and its rewards. The team is aware of the issues and is actively investigating!<br/><br/>As a thank you for your patience while we work on a fix for these issues, we will be delivering 500K Bloodpoints to all players. Be sure to log in before Sept 20th 11:59PM ET to claim this bonus!",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"",
+         "isHidden":false,
+         "startDate":"2021-09-13T19:00:00",
+         "title":"Grade Reset Issues",
+         "type":4,
+         "version":"5.2.0",
+         "weight":2007.0
+      },
+      {
+         "contentTags":[
+            "ps4",
+            "ps5"
+         ],
+         "description":"We&#39;re getting reports of missing DLCs on Playstation platforms. The team is aware of this and is actively investigating.<br/><br/>In the meantime&#44; following the steps in this article under &#34;Manually Redownloading DLCs&#34; may work as a potential fix&#58; <a href=\"event:https://playstation.com/en-ca/support/games/find-download-games-ps-store/\"><font color=\"#ff0000\"><u>playstation.com/en-ca/support/games/find-download-games-ps-store/</u></font></a>",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"",
+         "isHidden":false,
+         "startDate":"2021-09-07T15:00:00",
+         "title":"MISSING DLC ISSUE",
+         "type":4,
+         "version":"5.2.0",
+         "weight":2006.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5",
+            "switch"
+         ],
+         "description":"Hellraiser is a new Chapter in Dead by Daylight. It includes a new Killer&#44; Pinhead. Purchasing the add&#45;on unlocks both the new Killer and an exclusive universal charm:  Lament Configuration.<br/><br/>Demon to some&#44; angel to others&#44; the new Killer is Pinhead: leader of an extra-dimensional group of beings known as the Cenobites. Devoted to exploring the furthest regions of experience through the limitless thrill of pleasure and pain&#44; Pinhead uses hooks and chains to attack his victims&#44; tearing their flesh&#44; and souls&#44; apart in the process. When the puzzle box known as the Lament Configuration &#45; a key to Pinhead&#39;s dimension &#45; was discovered and opened in The Entity&#39;s Realm&#44; he arrived&#44; ready to bestow sweet suffering upon any who crossed his path.<br/><br/>The Hellraiser Chapter includes:<li>A new Killer: Pinhead &#40;The Cenobite&#41;</li><li>An exclusive universal charm: Lament Configuration</li><br/><br/><i>Please note that there will be a delay between the Hellraiser character being available via our in&#45;game store and the full DLC package. Should you purchase a single character via our store&#59; you will not receive the DLC exclusive item. We also remind you that in&#45;game store purchases are non&#45;refundable.</i>",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"UI/Icons/NewContentSplash/splashBanner_HRS.png",
+         "isHidden":false,
+         "startDate":"2021-09-07T15:00:00",
+         "title":"Hellraiser Chapter Release",
+         "type":2,
+         "version":"5.2.0",
+         "weight":2001.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5"
+         ],
+         "description":"Welcome to Chapter 21&#33; Please read the below for a quick summary of the new content you&#39;ll find.<br/><br/>For a full list of patch notes&#44; please see <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>forum.deadbydaylight.com/en/kb/patchnotes</u></font></a><br/><br/><span class=\"Heading2\">FEATURES</span><br/><li>Added a new Killer &#45; The Cenobite</li><li>Skill Based Matchmaking will be enabled separately on September 8th at 11&#58;00AM EDT</li><b>Grades and Grade Rewards&#58; Grades are replacing Ranks</b><li>Grade Resets will happen on the 13th of each month&#44; with Bloodpoint rewards based on your previous Grade for Survivor &#38; Killer&#44; separately</li><br/><span class=\"Heading2\">CONTENT</span><br/><li>The Nemesis Update to movement speed&#44; Shattered S.T.A.R.S. Badge &#38; Iridescent Umbrella Badge effects</li><li>Various bug fixes and improvements to address performance issues on the Family Residence&#44; Sanctum of Wrath and Midwich Elementary School</li><li>Blood Lodge and The Game maps are re&#45;enabled</li><li>Updated a variety of survivors hair and facial hair cosmetics</li><br/><span class=\"Heading2\">BUG FIXES</span><br/><li>Fixed an issue that may cause a hitch to occur when using the Dead Hard perk</li><li>Fixed an issue that caused frame hitches when a generator is repaired or when a survivor is healed</li><li>Fixed an issue that prevented survivors from escaping the trial if Victor pounces on them near the exit gates</li><li>Fixed an issue that caused teachable perks to not be unlocked after being bought in the shrine</li><br/><span class=\"Heading2\">KNOWN ISSUES</span><br/><li>The RPD & Dead Dawg Saloon maps are disabled and is planned on being re&#45;enabled on 5.2.1</li>",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"",
+         "isHidden":false,
+         "startDate":"2021-09-07T15:00:00",
+         "title":"Hellraiser Chapter Patch Notes",
+         "type":3,
+         "version":"5.2.0",
+         "weight":2002.0
+      },
+      {
+         "contentTags":[
+            "switch"
+         ],
+         "description":"Welcome to Chapter 21&#33; Please read the below for a quick summary of the new content you&#39;ll find.<br/><br/>For a full list of patch notes&#44; please see forum.deadbydaylight.com/en/kb/patchnotes<br/><br/><span class=\"Heading2\">FEATURES</span><br/><li>Added a new Killer &#45; The Cenobite</li><li>Skill Based Matchmaking will be enabled separately on September 8th at 11&#58;00AM EDT</li><b>Grades and Grade Rewards&#58; Grades are replacing Ranks</b><li>Grade Resets will happen on the 13th of each month&#44; with Bloodpoint rewards based on your previous Grade for Survivor &#38; Killer&#44; separately</li><br/><span class=\"Heading2\">CONTENT</span><br/><li>The Nemesis Update to movement speed&#44; Shattered S.T.A.R.S. Badge &#38; Iridescent Umbrella Badge effects</li><li>Various bug fixes and improvements to address performance issues on the Family Residence&#44; Sanctum of Wrath and Midwich Elementary School</li><li>Blood Lodge and The Game maps are re&#45;enabled</li><li>Updated a variety of survivors hair and facial hair cosmetics</li><br/><span class=\"Heading2\">BUG FIXES</span><br/><li>Fixed an issue that may cause a hitch to occur when using the Dead Hard perk</li><li>Fixed an issue that caused frame hitches when a generator is repaired or when a survivor is healed</li><li>Fixed an issue that prevented survivors from escaping the trial if Victor pounces on them near the exit gates</li><li>Fixed an issue that caused teachable perks to not be unlocked after being bought in the shrine</li><br/><span class=\"Heading2\">KNOWN ISSUES</span><br/><li>The RPD & Dead Dawg Saloon maps are disabled and is planned on being re&#45;enabled on 5.2.1</li>",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"",
+         "isHidden":false,
+         "startDate":"2021-09-07T15:00:00",
+         "title":"Hellraiser Chapter Patch Notes",
+         "type":3,
+         "version":"5.2.0",
+         "weight":2002.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5",
+            "switch"
+         ],
+         "description":"Now available in the store:<li>The Cenobite &#45; The Hell Priest</li><li>The Cenobite &#45; Chatterer</li>",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"UI/Icons/NewContentSplash/splashBanner_HRS1.png",
+         "isHidden":false,
+         "startDate":"2021-09-07T15:00:00",
+         "title":"Pinhead &#38; The Chatterer",
+         "type":2,
+         "version":"5.2.0",
+         "weight":2005.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5",
+            "switch"
+         ],
+         "description":"Jane asked for an interview but the cosplayer only stared silently through his mask.<br/><br/>Now available in the store:<li>Jane Romero &#45; GamePlay Expo Entertainer</li><li>The Legion &#40;Joe&#41; &#45; Expo Cosplayer</li>",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"UI/Icons/NewContentSplash/splashBanner_LPLJ.png",
+         "isHidden":false,
+         "startDate":"2021-08-26T15:00:00",
+         "title":"GamePlay Expo Collection",
+         "type":2,
+         "version":"5.1.1",
+         "weight":1192.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5",
+            "switch"
+         ],
+         "description":"Feng dons some comfy Shining Lion gear&#44; ready to stream her GamePlay Expo reactions to the world.<br/><br/>Now available in the store:<li>Feng Min &#45; GamePlay Expo Streamer</li>",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"UI/Icons/NewContentSplash/splashBanner_LPF.png",
+         "isHidden":false,
+         "startDate":"2021-08-26T15:00:00",
+         "title":"GamePlay Expo Collection",
+         "type":2,
+         "version":"5.1.1",
+         "weight":1191.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5",
+            "switch"
+         ],
+         "description":"Level III of Tome VIII is now available! With it comes the below:<li>22 Challenges (incl. 7 Master Challenges & 1 Glyph Challenge)</li><li>7 Memory and Log Entries (including the final entry for Jake Park&#39;s &#34;Exile of the Kingdom&#34;)</li><li>More Bloodpoints</li><br/><br/>To access Level III&#44; you must have reached the Epilogue node of Level II with either role.",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"UI/Icons/NewContentSplash/splashBanner_AR8.png",
+         "isHidden":false,
+         "startDate":"2021-08-25T15:00:00",
+         "title":"Jake&#39;s &#34;Exile of the Kingdom&#34;",
+         "type":4,
+         "version":"5.1.1",
+         "weight":1190.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5",
+            "switch"
+         ],
+         "description":"When it comes to loving their pets&#44; Meg and Claudette wear their hearts on their sleeves.<br/><br/>Now available in the store:<li>Meg Thomas &#45; Cat Fostering</li><li>Claudette Morel &#45; Dog&#45;Sitter</li>",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"UI/Icons/NewContentSplash/splashBanner_Trapper.png",
+         "isHidden":false,
+         "startDate":"2021-08-12T15:00:00",
+         "title":"The Cats &#38; Dogs Collection",
+         "type":2,
+         "version":"5.1.1",
+         "weight":1178.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5",
+            "switch"
+         ],
+         "description":"Level II of Tome VIII is now available! With it comes the below:<li>24 Challenges (incl. 9 Master Challenges & 1 Glyph Challenge)</li><li>9 Memory and Log Entries (including the final entry for The Clown&#39;s &#34;Finger of Chaos&#34;)</li><li>More Bloodpoints</li><br/><br/>To access Level II&#44; you must have reached the Epilogue node of Level I with either role.",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"UI/Icons/NewContentSplash/splashBanner_AR8.png",
+         "isHidden":false,
+         "startDate":"2021-08-11T15:00:00",
+         "title":"Clown&#39;s &#34;FINGER OF CHAOS&#34;",
+         "type":4,
+         "version":"5.1.1",
+         "weight":1177.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5"
+         ],
+         "description":"The game client has been updated to the 5.1.1 bugfix.<br/><br/><span class=\"Heading2\">Content</span><br/><li>The Trickster: Increased time before Laceration decay&#44; increased maximum throw speed bonus</li><br/><br/><span class=\"Heading2\">Bug Fixes</span><br/><li>Fixed an issue where the killers can completely block access to one of Gideon&#39;s hook</li><li>Fixed an issue where there was an invisible collision near the hill close to the main building in Ormond map</li><li>Fixed an issue that caused a generator in Lery&#39;s memorial Institute not being able to repaired from one side</li><li>Various fixes to Killers & Survivors</li><br/><br/><span class=\"Heading2\">Known Issues</span><br/><li>Dead Dawg Saloon&#44; Blood Lodge and The Game maps are disabled</li><br/><br/>Please see <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>forum.deadbydaylight.com/en/kb/patchnotes</u></font></a> for full patch notes.",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"",
+         "isHidden":false,
+         "startDate":"2021-08-10T15:00:00",
+         "title":"5.1.1 BUGFIX",
+         "type":4,
+         "version":"5.1.1",
+         "weight":1176.0
+      },
+      {
+         "contentTags":[
+            "switch"
+         ],
+         "description":"The game client has been updated to the 5.1.1 bugfix.<br/><br/><span class=\"Heading2\">Content</span><br/><li>The Trickster: Increased time before Laceration decay&#44; increased maximum throw speed bonus</li><br/><br/><span class=\"Heading2\">Bug Fixes</span><br/><li>Fixed an issue where the killers can completely block access to one of Gideon&#39;s hook</li><li>Fixed an issue where there was an invisible collision near the hill close to the main building in Ormond map</li><li>Fixed an issue that caused a generator in Lery&#39;s memorial Institute not being able to repaired from one side</li><li>Various fixes to Killers & Survivors</li><br/><br/><span class=\"Heading2\">Known Issues</span><br/><li>Dead Dawg Saloon&#44; Blood Lodge and The Game maps are disabled</li><br/><br/>Please see forum.deadbydaylight.com/en/kb/patchnotes for full patch notes.",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"",
+         "isHidden":false,
+         "startDate":"2021-08-10T15:00:00",
+         "title":"5.1.1 BUGFIX",
+         "type":4,
+         "version":"5.1.1",
+         "weight":1176.0
+      },
+      {
+         "contentTags":[
+            "switch"
+         ],
+         "description":"A free snoot for you to boop. Enter the code &#34;BOOP&#34; in the in&#45;game store&#44; and get a mask for Meg&#44; from Aug. 2&#45;9.<br/><br/>While you&#39;re at it&#44; celebrate one the of the most prolific horror franchises of all time with a sale that gives you 20% off on all things Saw from Aug. 2&#45;9.<li>20% off The Pig. Was 500 AC&#44; now 400 AC</li><li>20% off The Pig&#39;s Deceiver outfit. Was 1200 AC&#44; now 960 AC</li><li>20% off The Pig&#39;s Test Subject outfit. Was 1200 AC&#44; now 960 AC</li><li>20% off The Pig&#39;s Pig Leather outfit. Was 1320 AC&#44; now 1056 AC</li><li>20% off David Tapp. Was 500 AC&#44; now 400 AC</li><li>20% off David Tapp&#39;s Crisis Ready outfit. Was 1200 AC&#44; now 960 AC</li><li>20% off David Tapp&#39;s Beat Cop outfit. Was 1200 AC&#44; now 960 AC</li><li>20% off David Tapp&#39;s Undercover Cop outfit. Was 1200 AC&#44; now 960 AC</li><li>20% off David Tapp&#39;s Wary Greetings outfit. Was 250 AC&#44; now 200 AC</li>",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"UI/Icons/NewContentSplash/splashBanner_MMM.png",
+         "isHidden":false,
+         "startDate":"2021-08-03T15:00:00",
+         "title":"Saw Celebration",
+         "type":4,
+         "version":"5.1.0",
+         "weight":1174.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5"
+         ],
+         "description":"A free snoot for you to boop. Enter the code &#34;BOOP&#34; in the in&#45;game store&#44; and get a mask for Meg&#44; from Aug. 2&#45;9.<br/><br/>While you&#39;re at it&#44; celebrate one the of the most prolific horror franchises of all time with a sale that gives you 20% off on all things Saw from Aug. 2&#45;9.<li>20% off The Pig. Was 500 AC&#44; now 400 AC</li><li>20% off The Pig&#39;s Deceiver outfit. Was 1200 AC&#44; now 960 AC</li><li>20% off The Pig&#39;s Test Subject outfit. Was 1200 AC&#44; now 960 AC</li><li>20% off The Pig&#39;s Pig Leather outfit. Was 1320 AC&#44; now 1056 AC</li><li>20% off David Tapp. Was 500 AC&#44; now 400 AC</li><li>20% off David Tapp&#39;s Crisis Ready outfit. Was 1200 AC&#44; now 960 AC</li><li>20% off David Tapp&#39;s Beat Cop outfit. Was 1200 AC&#44; now 960 AC</li><li>20% off David Tapp&#39;s Undercover Cop outfit. Was 1200 AC&#44; now 960 AC</li><li>20% off David Tapp&#39;s Wary Greetings outfit. Was 250 AC&#44; now 200 AC</li>",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"UI/Icons/NewContentSplash/splashBanner_MMM.png",
+         "isHidden":false,
+         "startDate":"2021-08-02T15:00:00",
+         "title":"Saw Celebration",
+         "type":4,
+         "version":"5.0.0",
+         "weight":1174.0
+      },
+      {
+         "contentTags":[
+            "switch"
+         ],
+         "description":"Celebrate the Greek Legends Collection with free login rewards including two exclusive charms. Ends August 10 11AM ET.<br/><br/><li>Free Charms: Promo Code &#34;<b>HISSANDHERS</b>&#34;</li><li>250k Bloodpoints</li><li>20 Rift Fragments</li><br/><br/>As an added bonus&#44; the below are also available for Switch players exclusively until August 10th 11AM to get players caught up with the Tome VIII Rift&#33;<li>200k Bloodpoints</li><li>70 Rift Fragments</li>",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"UI/Icons/NewContentSplash/splashBanner_GLKJB.png",
+         "isHidden":false,
+         "startDate":"2021-08-03T15:00:00",
+         "title":"Greek Legends Charms &#38; Login Gifts",
+         "type":2,
+         "version":"5.1.0",
+         "weight":1176.0
+      },
+      {
+         "contentTags":[
+            "switch"
+         ],
+         "description":"Tome VIII&#58; DELIVERANCE is now open within The Archives&#44; bringing new stories to discover in the world of Dead by Daylight. DELIVERANCE contains brand&#45;new yellow Glyph Challenges for Survivors&#44; new stories&#44; and new rewards. Explore the memories of The Clown&#44; Jake Park&#44; and The Observer&#44; all while earning memorable outfits and cosmetics.<br/><br/><b>Level Release Schedule</b><li>Level I&#58; July 28th 2021 11AM ET</li><li>Level II&#58; August 11th  2021 11AM ET</li><li>Level III&#58; August 25th 2021 11AM ET</li><li>Level IV&#58; September 15th 2021 11AM ET</li><br/><i>Please note these release dates are subject to change. All previously unlocked levels will remain available once released but will stop providing Rift Fragments once the relevant Rift has expired.<br/><br/>LIMITED TIME SALE &#45; 50% off Auric Cells and 25% off Iridescent Shards price for Elodie Rakoto and The Clown&#44; between July 28th  11AM ET and August 4th 11AM ET.</i>",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"UI/Icons/NewContentSplash/splashBanner_AR8.png",
+         "isHidden":false,
+         "startDate":"2021-08-03T15:00:00",
+         "title":"Tome VIII &#45; DELIVERANCE",
+         "type":2,
+         "version":"5.1.0",
+         "weight":1175.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5"
+         ],
+         "description":"Tome VIII&#58; DELIVERANCE is now open within The Archives&#44; bringing new stories to discover in the world of Dead by Daylight. DELIVERANCE contains brand&#45;new yellow Glyph Challenges for Survivors&#44; new stories&#44; and new rewards. Explore the memories of The Clown&#44; Jake Park&#44; and The Observer&#44; all while earning memorable outfits and cosmetics.<br/><br/>Dive deeper into Tome VIII&#39;s characters with the Tome Reveal Trailer: <a href=\"event:https://youtu.be/4Zty7BGjXRg\"><font color=\"#ff0000\"><u>youtu.be/4Zty7BGjXRg</u></font></a> &#38; Rift Trailer: <a href=\"event:https://youtu.be/mhijlQn63m0\"><font color=\"#ff0000\"><u>youtu.be/mhijlQn63m0</u></font></a><br/><br/><b>Level Release Schedule</b><li>Level I&#58; July 28th 2021 11AM ET</li><li>Level II&#58; August 11th  2021 11AM ET</li><li>Level III&#58; August 25th 2021 11AM ET</li><li>Level IV&#58; September 15th 2021 11AM ET</li><br/><i>Please note these release dates are subject to change. All previously unlocked levels will remain available once released but will stop providing Rift Fragments once the relevant Rift has expired.<br/><br/>LIMITED TIME SALE &#45; 50% off Auric Cells and 25% off Iridescent Shards price for Elodie Rakoto and The Clown&#44; between July 28th  11AM ET and August 4th 11AM ET.</i>",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"UI/Icons/NewContentSplash/splashBanner_AR8.png",
+         "isHidden":false,
+         "startDate":"2021-07-28T15:00:00",
+         "title":"Tome VIII &#45; DELIVERANCE",
+         "type":2,
+         "version":"5.1.0",
+         "weight":1173.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5"
+         ],
+         "description":"It&#39;s Greek week! Celebrate the Greek Legends Collection from Jul. 27 &#45; Aug. 2 with free login rewards including two exclusive charms.<br/><br/><li>July 27 11AM ET &#45; August 3 11AM ET &#45; Free Charms: Promo Code &#34;<b>HISSANDHERS</b>&#34;</li><li>July 27 11AM ET &#45; July 28 11AM ET: 50K Bloodpoints</li><li>July 28 11AM ET &#45; July 29 11AM ET: 50K Bloodpoints</li><li>July 29 11AM ET &#45; July 30 11AM ET: 10 Rift Fragments</li><li>July 30 11AM ET &#45; July 31 11AM ET: 50K Bloodpoints</li><li>July 31 11AM ET &#45; August 1 11AM ET: 50K Bloodpoints</li><li>August 1 11AM ET &#45; August 2 11AM ET: 50K Bloodpoints</li><li>August 2 11AM ET &#45; August 3 11AM ET: 10 Rift Fragments</li>",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"UI/Icons/NewContentSplash/splashbanner_GLL.png",
+         "isHidden":false,
+         "startDate":"2021-07-27T15:00:00",
+         "title":"Mini Log&#45;In Event",
+         "type":2,
+         "version":"5.0.2",
+         "weight":1172.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5",
+            "switch"
+         ],
+         "description":"A hero&#44; a songstress&#44; and a cursed ferryman. Jeff&#44; Kate&#44; and The Blight begin their journey down the River Styx.<br/><br/>Now available in the store: <li>Jeff Johansen &#45; Titan of Fire</li><li>Kate Denson &#45; Lyrical Goddess</li><li>The Blight &#45; Ferryman of the Underworld</li>",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"UI/Icons/NewContentSplash/splashBanner_GLKJB.png",
+         "isHidden":false,
+         "startDate":"2021-07-27T15:00:00",
+         "title":"Greek Legends Collection",
+         "type":2,
+         "version":"5.1.0",
+         "weight":1170.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5",
+            "switch"
+         ],
+         "description":"Goddess gowns and ghastly ghouls. Elodie&#44; Zarina&#44; and The Nurse go Greek. <br/><br/>Now available in the store: <li>Elodie Rakoto &#45; Bearer of Gifts</li><li>Zarina Kassir &#45; The Goddess Queen</li><li>The Nurse &#45; Vengeful Enchantress</li>",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"UI/Icons/NewContentSplash/splashBanner_GLENZ.png",
+         "isHidden":false,
+         "startDate":"2021-07-27T15:00:00",
+         "title":"Greek Legends Collection",
+         "type":2,
+         "version":"5.1.0",
+         "weight":1169.0
+      },
+      {
+         "contentTags":[
+            "switch"
+         ],
+         "description":"Welcome to Mid&#45;Chapter 20.5&#33; Please read the below for a quick summary of the new content you&#39;ll find.<br/><br/>For a full list of patch notes&#44; please see forum.deadbydaylight.com/en/kb/patchnotes<br/><br/><br/><span class=\"Heading2\">CONTENT</span><br/><li>New Tome and Rift to be added to the Archives July 28th</li><li>The Trickster gameplay update</li><li>Technical &#38; Tutorial updates</li><br/><span class=\"Heading2\">SURVIVOR VISUAL UPDATES</span><br/><li>Updates to outfits&#44; textures&#44; facial models&#44; hair on a variety of characters</li><span class=\"Heading2\">FEATURES</span><br/><li>Added a toggle to some of the HUD elements on or off</li><br/><span class=\"Heading2\">BUG FIXES</span><br/><li>Several gameplay &#38; performance issues fixed</li><li>Several map &#38; collision issues fixed</li><li>Several animation &#38; cosmetic issues fixed</li>",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"",
+         "isHidden":false,
+         "startDate":"2021-07-27T15:00:00",
+         "title":"PATCH NOTES",
+         "type":3,
+         "version":"5.1.0",
+         "weight":1168.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5"
+         ],
+         "description":"Welcome to Mid&#45;Chapter 20.5&#33; Please read the below for a quick summary of the new content you&#39;ll find.<br/><br/>For a full list of patch notes&#44; please see <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>forum.deadbydaylight.com/en/kb/patchnotes</u></font></a><br/><br/><br/><span class=\"Heading2\">CONTENT</span><br/><li>New Tome and Rift to be added to the Archives July 28th</li><li>The Trickster gameplay update</li><li>Technical &#38; Tutorial updates</li><br/><span class=\"Heading2\">SURVIVOR VISUAL UPDATES</span><br/><li>Updates to outfits&#44; textures&#44; facial models&#44; hair on a variety of characters</li><span class=\"Heading2\">FEATURES</span><br/><li>Added a toggle to some of the HUD elements on or off</li><br/><span class=\"Heading2\">BUG FIXES</span><br/><li>Several gameplay &#38; performance issues fixed</li><li>Several map &#38; collision issues fixed</li><li>Several animation &#38; cosmetic issues fixed</li>",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"",
+         "isHidden":false,
+         "startDate":"2021-07-27T15:00:00",
+         "title":"PATCH NOTES",
+         "type":3,
+         "version":"5.1.0",
+         "weight":1167.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5"
+         ],
+         "description":"The Dead by Daylight team would like your feedback in a Player Satisfaction survey.<br/><br/>We encourage you to be as honest as possible in letting us know how you feel about the game. The information and answers provided are anonymous&#44; not shared with any third&#173;party&#44; and will not be used for purposes other than survey analysis.<br/><br/>Access the survey HERE&#58; <a href=\"event:https://www.surveymonkey.com/r/DbD-PSATg\"><font color=\"#ff0000\"><u>https://www.surveymonkey.com/r/DbD-PSATg</u></font></a>",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"",
+         "isHidden":false,
+         "startDate":"2021-07-21T15:00:00",
+         "title":"PLAYER SATISFACTION SURVEY",
+         "type":4,
+         "version":"5.0.2",
+         "weight":1166.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5",
+            "switch"
+         ],
+         "description":"Kick the seaweed off your boot and cast your line into the briny deep&#44; but beware&#58; you may not like what you reel in...<br/><br/>Now available in the store&#58;<li>Ace Visconti &#45; <b>Broke Fisherman</b></li><li>The Spirit &#45; <b>Marine Maiden</b></li><li>The Deathslinger &#45; <b>Fishy Target</b></li><li>The Twins &#45; <b>Seabed Sustenance</b></li>",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"UI/Icons/NewContentSplash/splashBanner_MDSA.png",
+         "isHidden":false,
+         "startDate":"2021-07-20T15:00:00",
+         "title":"SEA&#45;WASHED CREATURES",
+         "type":2,
+         "version":"5.0.2",
+         "weight":1162.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5",
+            "switch"
+         ],
+         "description":"The brighter the tag&#44; the bigger the statement. Nea was made for neon.<br/><br/>Now available in the store&#58;<li>Nea Karlsson &#45; <b>Undaunted Teenager</b></li>",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"UI/Icons/NewContentSplash/splashBanner_NNN.png",
+         "isHidden":false,
+         "startDate":"2021-07-15T15:00:00",
+         "title":"NEA",
+         "type":2,
+         "version":"5.0.2",
+         "weight":1161.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5",
+            "switch"
+         ],
+         "description":"<b>The Rift for Tome VII will close on July 22nd!</b><br/><br/>For those without a Rift Pass&#44; this will be the last chance to unlock it and claim any rewards you&#39;ve earned on the Premium track. <br/><br/>Once the Rift closes the below will come into effect:<li>Challenges&#44; Entries&#44; and Bloodpoints from Tome VII will remain available permanently after this date but no longer award Rift Fragments. Once the next Tome begins&#44; Tome VII will be available in the Compendium section.</li><li>Player Level XP will stop awarding Rift Fragments.</li><li>Unclaimed rewards from the Rift will be automatically claimed on your next launch of the game or tally screen&#44; whichever comes first.</li><br/><br/>Stay tuned for Tome VIII to arrive with Mid-Chapter 20.5!",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"UI/Icons/NewContentSplash/splashBanner_AT7.png",
+         "isHidden":false,
+         "startDate":"2021-07-15T15:00:00",
+         "title":"RIFT CLOSES IN 1 WEEK",
+         "type":4,
+         "version":"4.7.0",
+         "weight":1160.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5",
+            "switch"
+         ],
+         "description":"We have fixes coming for the most significant performance issues&#44; slated 7&#47;27. We are working on further improvements for future updates.<br/><br/>To thank you for your patience&#44; log in anytime before the mid&#45;chapter releases for 300K BP &#38; 3K Shards",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"",
+         "isHidden":false,
+         "startDate":"2021-07-13T14:00:00",
+         "title":"FREE BLOODPOINTS & SHARDS",
+         "type":4,
+         "version":"5.0.2",
+         "weight":1153.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5",
+            "switch"
+         ],
+         "description":"<b>UPDATE:</b><li>The Rift end date has been extended to July 21st</li><li>The 5th Anniversary Event has been extended to July 22nd</li><br/><br/>Dead by Daylight&#39;s 5th Anniversary Limited&#45;Time Event is live between July 1st and July 15th!<br/><br/>Log in and take advantage of special deals and Iridescent Shard giveaways &#45; all in a frighteningly festive atmosphere.<br/><br/>Make sure to follow Dead by Daylight on social media for the latest information&#44; community challenges&#44; and cosmetic giveaways!",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"UI/Icons/NewContentSplash/splashBanner_ENV.png",
+         "isHidden":false,
+         "startDate":"2021-07-12T14:00:00",
+         "title":"5th Anniversary Limited&#45;Time Event",
+         "type":2,
+         "version":"5.0.2",
+         "weight":1152.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5",
+            "switch"
+         ],
+         "description":"Blazing lights&#44; big colors&#44; and back&#45;alley chases. It&#39;s neon all night for The Legion and Zarina. <br/><br/>Now available in the store:<li>The Legion &#40;Susie&#41; &#45; <b>Angsty Artist</b></li><li>Zarina Kassir &#45; <b>Brooklyn Night&#45;Out</b></li>",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"UI/Icons/NewContentSplash/splashBanner_NLZ.png",
+         "isHidden":false,
+         "startDate":"2021-07-08T15:00:00",
+         "title":"The Legion & Zarina",
+         "type":2,
+         "version":"5.0.2",
+         "weight":1151.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5",
+            "switch"
+         ],
+         "description":"The Temple of Purgation map has been re&#45;enabled",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"",
+         "isHidden":false,
+         "startDate":"2021-07-05T14:00:00",
+         "title":"MAP ENABLED",
+         "type":4,
+         "version":"5.0.2",
+         "weight":1138.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5"
+         ],
+         "description":"High profile&#44; high style. Neon gets you noticed &#45; a perfect fit for The Trickster and Yun&#45;Jin.<br/><br/>Now available in the store: <li>The Trickster &#45; <b>Pressured Performer</b></li><li>Yun-Jin Lee &#45; <b>Midnight Fashionista</b></li><br/><br/>Check out the Collection Trailer: <a href=\"event:https://youtu.be/K4oqZdAOXbc\"><font color=\"#ff0000\"><u>youtu.be/K4oqZdAOXbc</u></font></a>",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"UI/Icons/NewContentSplash/splashBanner_NTYJ.png",
+         "isHidden":false,
+         "startDate":"2021-06-30T15:00:00",
+         "title":"The Trickster & Yun&#45;Jin",
+         "type":2,
+         "version":"5.0.2",
+         "weight":1136.0
+      },
+      {
+         "contentTags":[
+            "switch"
+         ],
+         "description":"High profile&#44; high style. Neon gets you noticed &#45; a perfect fit for The Trickster and Yun&#45;Jin.<br/><br/>Now available in the store: <li>The Trickster &#45; <b>Pressured Performer</b></li><li>Yun-Jin Lee &#45; <b>Midnight Fashionista</b></li>",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"UI/Icons/NewContentSplash/splashBanner_NTYJ.png",
+         "isHidden":false,
+         "startDate":"2021-06-30T15:00:00",
+         "title":"The Trickster & Yun&#45;Jin",
+         "type":2,
+         "version":"5.0.2",
+         "weight":1135.0
+      },
+      {
+         "contentTags":[
+            "switch"
+         ],
+         "description":"The game client has been updated to the 5.0.2 bugfix.<br/><br/><span class=\"Heading2\">BUG FIXES</span><li>Fixed an issue that could prevent downed survivors from being picked up when near certain walls or corners.</li><li>Fixed an issue that could cause Nemesis&#39; Tentacle strike to hit the Survivor through some of the windows and main building.</li><li>Fixed multiple issues in the Tutorial mode & Onboarding menu</li><br/><br/><span class=\"Heading2\">PERFORMANCE ISSUES</span><br/>This update contains a few changes that should improve performance for many players. That said&#44; some performance issues still remain. The team is still actively working on more fixes across multiple platforms&#44; including consoles. We will be monitoring the changes made within this bugfix patch for stability.</li><br/><br/>We&#39;re hoping this update will also help performance on the Raccoon City Police Station map&#44; but we want to ensure it is stable enough to be reinstated for live games. We will be monitoring how the map is doing in custom games with these new changes and provide you all with an update soon. <br/><br/>Thank you for your patience as we continue to work on further improvements to the game&#39;s performance!<br/><br/>Please see forum.deadbydaylight.com/en/kb/patchnotes for full patch notes.",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"",
+         "isHidden":false,
+         "startDate":"2021-06-29T15:00:00",
+         "title":"5.0.2 BUGFIX",
+         "type":4,
+         "version":"5.0.2",
+         "weight":1134.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5"
+         ],
+         "description":"The game client has been updated to the 5.0.2 bugfix.<br/><br/><span class=\"Heading2\">BUG FIXES</span><li>Fixed an issue that could prevent downed survivors from being picked up when near certain walls or corners.</li><li>Fixed an issue that could cause Nemesis&#39; Tentacle strike to hit the Survivor through some of the windows and main building.</li><li>Fixed multiple issues in the Tutorial mode & Onboarding menu</li><br/><br/><span class=\"Heading2\">PERFORMANCE ISSUES</span><br/>This update contains a few changes that should improve performance for many players. That said&#44; some performance issues still remain. The team is still actively working on more fixes across multiple platforms&#44; including consoles. We will be monitoring the changes made within this bugfix patch for stability.</li><br/><br/>We&#39;re hoping this update will also help performance on the Raccoon City Police Station map&#44; but we want to ensure it is stable enough to be reinstated for live games. We will be monitoring how the map is doing in custom games with these new changes and provide you all with an update soon. <br/><br/>Thank you for your patience as we continue to work on further improvements to the game&#39;s performance!<br/><br/>Please see <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>forum.deadbydaylight.com/en/kb/patchnotes</u></font></a> for full patch notes.",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"",
+         "isHidden":false,
+         "startDate":"2021-06-29T15:00:00",
+         "title":"5.0.2 BUGFIX",
+         "type":4,
+         "version":"5.0.2",
+         "weight":1133.0
+      },
+      {
+         "contentTags":[
+            "switch"
+         ],
+         "description":"The game client has been updated to the 5.0.1 bugfix.<br/><br/><span class=\"Heading2\">BUG FIXES</span><li>Fixed a stability performance issue by improving the memory usage on the killer Nemesis.</li><li>Fixed an issue that prevented The Nemesis from interrupting survivors who are unlocking a supply case.</li><li>Fixed an issue that could cause the killer to become frozen in place if a Survivor disconnects while being carried.</li><li>Fixed an issue that could cause pallets to seemingly disappear when the user moves their camera at a certain angle.</li><li>Fixed an issue that could cause an invisible collision blocking the projectiles above an asset in Gas Haven.</li><li>Fixed an issue that could cause some unbreakable outfits to be breakable.</li><br/><br/><span class=\"Heading2\">OTHER</span><li>The Raccoon City Police Station map has been re&#45;enabled for custom matches while we continue to investigate certain stability issues.</li><li>The RPD Badge offering has been temporarily disabled. It can still be collected in bloodwebs but cannot be equipped for trials.</li><br/><br/><span class=\"Heading2\">KNOWN ISSUES</span><li>Various performance issues&#58; the team is still actively investigating performance issues across multiple platforms&#44; including consoles. Thank you for your patience as we work on a fix for this!</li><br/><br/>Please see forum.deadbydaylight.com/en/kb/patchnotes for full patch notes.",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"",
+         "isHidden":false,
+         "startDate":"2021-06-22T15:00:00",
+         "title":"5.0.1 BUGFIX",
+         "type":4,
+         "version":"5.0.1",
+         "weight":1132.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5"
+         ],
+         "description":"The game client has been updated to the 5.0.1 bugfix.<br/><br/><span class=\"Heading2\">BUG FIXES</span><li>Fixed a stability performance issue by improving the memory usage on the killer Nemesis.</li><li>Fixed an issue that prevented The Nemesis from interrupting survivors who are unlocking a supply case.</li><li>Fixed an issue that could cause the killer to become frozen in place if a Survivor disconnects while being carried.</li><li>Fixed an issue that could cause pallets to seemingly disappear when the user moves their camera at a certain angle.</li><li>Fixed an issue that could cause an invisible collision blocking the projectiles above an asset in Gas Haven.</li><li>Fixed an issue that could cause some unbreakable outfits to be breakable.</li><br/><br/><span class=\"Heading2\">OTHER</span><li>The Raccoon City Police Station map has been re&#45;enabled for custom matches while we continue to investigate certain stability issues.</li><li>The RPD Badge offering has been temporarily disabled. It can still be collected in bloodwebs but cannot be equipped for trials.</li><br/><br/><span class=\"Heading2\">KNOWN ISSUES</span><li>Various performance issues&#58; the team is still actively investigating performance issues across multiple platforms&#44; including consoles. Thank you for your patience as we work on a fix for this!</li><br/><br/>Please see <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>forum.deadbydaylight.com/en/kb/patchnotes</u></font></a> for full patch notes.",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"",
+         "isHidden":false,
+         "startDate":"2021-06-22T15:00:00",
+         "title":"5.0.1 BUGFIX",
+         "type":4,
+         "version":"5.0.1",
+         "weight":1131.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5",
+            "switch"
+         ],
+         "description":"We have temporarily disabled the Raccoon City Police Station map across all platforms.<br/><br/>We are investigating reports of crashes after loading into a Trial. The map will be re&#45;enabled when the issue is resolved. Thank you for your patience!<br/><br/>We know you&#39;re excited to explore the Raccoon City Police Station&#44; so here&#39;s something else to be excited about while we get this fixed up: Login any time between now and June 22nd 5PM EDT for 300&#44;000 Bloodpoints.",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"",
+         "isHidden":false,
+         "startDate":"2021-06-15T20:30:00",
+         "title":"DISABLED MAP",
+         "type":4,
+         "version":"5.0.0",
+         "weight":1130.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5",
+            "switch"
+         ],
+         "description":"Offer ends June 22nd 11AM EDT. Discount limited to characters purchased in Auric Cells.<br/><br/><li>50&#37; off all characters before the All&#45;Kill chapter</li><li>30&#37; off on All&#45;Kill chapter characters</li>",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"UI/Icons/NewContentSplash/splashBanner_ENV.png",
+         "isHidden":false,
+         "startDate":"2021-06-15T15:00:00",
+         "title":"5th Anniversary Sale",
+         "type":2,
+         "version":"5.0.0",
+         "weight":1124.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5"
+         ],
+         "description":"Iconic heroes. An infamous foe. A classic setting...<br/><br/>The Resident Evil Chapter includes a new map: The Raccoon City Police Station. Once home to the RPD&#39;s elite S.T.A.R.S. unit&#44; the labyrinthine hallways of this converted art museum are now overrun by the undead and host to a relentless evil.<br/><br/>The new Killer is Nemesis. Take control of Umbrella&#39;s bloodthirsty bio&#45;organic weapon and hunt your targets without mercy.<br/><br/>The new Survivors are Leon S. Kennedy and Jill Valentine. Unflinching in his mission to expose Umbrella&#44; Leon has proven himself a true survivor since his first day with the RPD. Jill is a brilliant S.T.A.R.S. agent&#44; one of the only surviving members of her unit&#44; and a hard target for even the most unrelenting adversary.<br/><br/>The Resident Evil Chapter includes:<li>A new Killer: Nemesis</li><li>2 new Survivors: Leon S. Kennedy and Jill Valentine</li><li>An exclusive universal charm: Umbrella Corporation</li><br/><br/>Watch the Chapter trailer here: <a href=\"event:https://youtu.be/m45Hi70RdLo\"><font color=\"#ff0000\"><u>youtu.be/m45Hi70RdLo</u></font></a><br/><br/><i>Please note that there will be a delay between the Resident Evil characters being available via our in&#45;game store and the full DLC package. Should you purchase a single character via our store; you will not receive the DLC exclusive item. We also remind you that in&#45;game store purchases are non&#45;refundable.</i>",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"UI/Icons/NewContentSplash/splashBanner_ECK.png",
+         "isHidden":false,
+         "startDate":"2021-06-15T15:00:00",
+         "title":"Resident Evil Chapter Release",
+         "type":2,
+         "version":"5.0.0",
+         "weight":1128.0
+      },
+      {
+         "contentTags":[
+            "switch"
+         ],
+         "description":"Iconic heroes. An infamous foe. A classic setting...<br/><br/>The Resident Evil Chapter includes a new map: The Raccoon City Police Station. Once home to the RPD&#39;s elite S.T.A.R.S. unit&#44; the labyrinthine hallways of this converted art museum are now overrun by the undead and host to a relentless evil.<br/><br/>The new Killer is Nemesis. Take control of Umbrella&#39;s bloodthirsty bio&#45;organic weapon and hunt your targets without mercy.<br/><br/>The new Survivors are Leon S. Kennedy and Jill Valentine. Unflinching in his mission to expose Umbrella&#44; Leon has proven himself a true survivor since his first day with the RPD. Jill is a brilliant S.T.A.R.S. agent&#44; one of the only surviving members of her unit&#44; and a hard target for even the most unrelenting adversary.<br/><br/>The Resident Evil Chapter includes:<li>A new Killer: Nemesis</li><li>2 new Survivors: Leon S. Kennedy and Jill Valentine</li><li>An exclusive universal charm: Umbrella Corporation</li><br/><br/><i>Please note that there will be a delay between the Resident Evil characters being available via our in&#45;game store and the full DLC package. Should you purchase a single character via our store; you will not receive the DLC exclusive item. We also remind you that in&#45;game store purchases are non&#45;refundable.</i>",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"UI/Icons/NewContentSplash/splashBanner_ECK.png",
+         "isHidden":false,
+         "startDate":"2021-06-15T15:00:00",
+         "title":"Resident Evil Chapter Release",
+         "type":2,
+         "version":"5.0.0",
+         "weight":1127.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5",
+            "switch"
+         ],
+         "description":"Leon&#39;s classic Sheep Wool Jacket look is here to add some RE4 nostalgia to your next trial.<br/><br/>Now available in the store:<li>Leon S. Kennedy &#45; <b>Persistent Investigator</b></li>",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"UI/Icons/NewContentSplash/splashBanner_CJL.png",
+         "isHidden":false,
+         "startDate":"2021-06-15T15:00:00",
+         "title":"Leon",
+         "type":2,
+         "version":"5.0.0",
+         "weight":1125.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5",
+            "switch"
+         ],
+         "description":"Legendary characters&#44; iconic outfits. Tap Chris and Claire Redfield and bring some extra backup into the Fog. <br/><br/>Now available in the store:<li>Leon S. Kennedy &#45; <b>Chris Redfield</b></li><li>Jill Valentine &#45; <b>Claire Redfield</b></li><li>Jill Valentine &#45; <b>Impervious Agent</b></li>",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"UI/Icons/NewContentSplash/splashBanner_CC.png",
+         "isHidden":false,
+         "startDate":"2021-06-15T15:00:00",
+         "title":"Claire&#44; Chris & Jill",
+         "type":2,
+         "version":"5.0.0",
+         "weight":1126.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5",
+            "switch"
+         ],
+         "description":"Welcome to Chapter 20&#33; Please read the below for a quick summary of the new content you&#39;ll find.<br/><br/>For a full list of patch notes&#44; please see https://forum.deadbydaylight.com/en/kb/patchnotes<br/><br/><span class=\"Heading2\">FEATURES</span><br/><li>Added The Nemesis, Jill Valentine and Leon S. Kennedy</li><li>Added a new map &#45; Raccoon City Police Station</li><li>Improved Tutorials</li><br/><span class=\"Heading2\">CONTENT</span><br/><li>Trapper Update</li><li>5th Anniversary Event</li><br/><span class=\"Heading2\">BUG FIXES</span><br/><li>Multiple fixes to perks, powers, maps, collisions, animations & customizations</li><br/><span class=\"Heading2\">MAP ROTATION</span><br/><li>The Thompson House map has been re-enabled and available in the map rotation.</li><li>The Temple Of Purgation map has been temporarily disabled due to an issue that prevents the Killer from accessing certain areas of the map. It is currently being investigated.</li>",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"",
+         "isHidden":false,
+         "startDate":"2021-06-15T15:00:00",
+         "title":"Patch Notes",
+         "type":3,
+         "version":"5.0.0",
+         "weight":1123.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5",
+            "switch"
+         ],
+         "description":"Level IV of Tome VII is now available! With it comes the below:<li>21 Challenges (incl. 5 Master Challenges & 1 Glyph Challenge)</li><li>5 Memory and Log Entries (including the <b>final entries for The Observer&#39;s Logs in &#34;Universus Alveo&#34;</b>)</li><li>More Bloodpoints</li><br/><br/>To access Level IV&#44; you must have reached the Epilogue node of Level III with either role.",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"UI/Icons/NewContentSplash/splashBanner_AT7.png",
+         "isHidden":false,
+         "startDate":"2021-06-23T15:00:00",
+         "title":"THE OBSERVER&#39;S &#34;UNIVERSUS ALVEO&#34;",
+         "type":2,
+         "version":"4.7.0",
+         "weight":1120.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5",
+            "switch"
+         ],
+         "description":"On Nov. 17&#44; the characters of The Demogorgon&#44; Nancy Wheeler&#44;  Steve Harrington&#44; and all collections and outfits related to Stranger Things will no longer be available for purchase in Dead by Daylight.<br/><br/>Players who have already purchased any of these Stranger Things characters and outfits own them permanently and can continue using them after Nov. 17 when they are no longer for sale.<br/><br/>Players who wish to purchase any of these characters and outfits can take advantage of the following sales&#44; listed below<br/><br/><span class=\"Heading2\">Stranger Things Character Sale: August 18th &#45; November 17th</span><br/><li>50% off The Demogorgon&#44; was 500 AC is now 250</li><li>50% off Steve Harrington&#44; was 500 AC is now 250</li><li>50% off Nancy Wheeler&#44; was 500 AC is now 250</li><br/><br/><span class=\"Heading2\">Stranger Things Outfit Sale: August 18th &#45; September 8th</span><br/><li>50% off The Demogorgon&#39;s Escaped Specimen outfit&#44; was 1200 AC is now 600</li><li>50% off The Demogorgon&#39;s Twisted Demogorgon outfit&#44; was 1200 AC is now 600</li><li>50% off The Demogorgon&#39;s Geo Mutation outfit&#44; was 1200 AC is now 600</li><li>50% off Steve Harrington&#39;s Scoops Ahoy outfit&#44; was 1200 AC is now 600</li><li>50% off Steve Harrington&#39;s Last Minute Babysitter outfit&#44; was 1200 AC is now 600</li><li>50% off Steve Harrington&#39;s This is not happening outfit&#44; was 1200 AC is now 600</li><li>50% off Steve Harrington&#39;s High School Hunk outfit&#44; was 1200 AC is now 600</li><li>50% off Steve Harrington&#39;s Jonathan Byers outfit&#44; was 1650 AC is now 825</li><li>50% off Steve Harrington&#39;s Red Nosed outfit&#44; was 250 AC is now 125</li><li>50% off Nancy Wheeler&#39;s Business Cool outfit&#44; was 1200 AC is now 600</li><li>50% off Nancy Wheeler&#39;s Justice Seeker outfit&#44; was 1200 AC is now 600</li><li>50% off Nancy Wheeler&#39;s Hawkins School Dance outfit&#44; was 1200 AC is now 600</li><li>50% off Nancy Wheeler&#39;s Days of Rose outfit&#44; was 1200 AC is now 600</li><li>50% off Nancy Wheeler&#39;s Impulsive Activist outfit&#44; was 1200 AC is now 600</li><li>50% off Nancy Wheeler&#39;s Sad Cupcake outfit&#44; was 250 AC is now 125</li>",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"UI/Icons/NewContentSplash/splashBanner_STS.png",
+         "isHidden":false,
+         "startDate":"2021-08-18T15:00:00",
+         "title":"Stranger Things Sale",
+         "type":4,
+         "version":"5.1.0",
+         "weight":1190.0
+      }
+   ]
+}
