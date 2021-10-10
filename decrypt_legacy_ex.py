@@ -29,7 +29,7 @@ def decrypt(body):
         plained = json.loads(z_out)
         return plained
  
-with open("news.txt") as f:
+with open("body.txt") as f:
     content_body = f.read()
-    with open("newsmy_fi.txt", "w") as text_file:
+    with open("plained_body.txt", "w") as text_file:
         text_file.write(str(decrypt(content_body)))
