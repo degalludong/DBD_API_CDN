@@ -12,11 +12,9 @@ class CDNKeys:
     key510 = "GgkY5gFWXzqqxaqUFGb2x+CzdGuJ00nJ2XwV+AoBwuc="
     key520 = "gqONp7FrUqdbp3hS/iMmhphUQ5yPH8eKlkDQk+2QVkI="
     legacykey = b"5BCC2D6A95D4DF04A005504E59A9B36E"
- 
-decr_key = base64.b64decode(CDNKeys.legacykey)
-
+    
 def decrypt(body):
-        cipher = AES.new(decr_key, AES.MODE_ECB)
+        cipher = AES.new(CDNkeys.legacykey, AES.MODE_ECB)
         encbody = body[8:]
         b64_body = base64.b64decode(encbody)
         
