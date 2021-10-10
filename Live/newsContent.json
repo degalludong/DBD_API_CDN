@@ -11,6 +11,108 @@
             "ps5",
             "switch"
          ],
+         "description":"The Rift closes in less than 24h! Today is your last chance to get Tome VII Rift rewards.",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"",
+         "isHidden":false,
+         "startDate":"2021-10-12T15:00:00",
+         "title":"24h left in Tome VIII's Rift",
+         "type":4,
+         "version":"5.2.0",
+         "weight":2040.0
+      },
+      {
+         "contentTags":[
+            "steam"
+         ],
+         "description":"For a brief window, a version of Steam which was incompatible with our anti-cheat, Easy Anti-Cheat, was live. This update has since been rolled back.<br/><br/>However, starting at approximately 3:20 p.m. EDT, Steam players who launched the game with this version of Steam installed may be unable to find a match. If you find yourself in this situation, don\\'t worry! Just follow these quick steps and you\\'ll be able to find matches again:<li>Close the game</li><li>In the top right corner of Steam, click \"Steam\" followed by \"Check for Steam Client Updates...\"</li><li>When asked, choose to update</li><br/>That\\'s it! You should now be able to launch the game and find matches as expected.",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"",
+         "isHidden":false,
+         "startDate":"2021-10-08T15:00:00",
+         "title":"PSA: MATCHMAKING ISSUES",
+         "type":4,
+         "version":"5.2.0",
+         "weight":2034.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5",
+            "switch"
+         ],
+         "description":"<b><font color=\"#FFCD00\">Five outfits previously from The Rift have now made it to the store!</font></b><br/><br/><li>The Wraith - Phantom of Vengeance</li><li>Ace Visconti - Sideshow Brawler</li><li>The Hag - The Abomination</li><li>Claudette Morel - Glitz & Glamour</li><li>Meg Thomas - Jewel of the Party</li>",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"UI/Icons/NewContentSplash/splashBanner_Trapper.png",
+         "isHidden":false,
+         "startDate":"2021-10-07T18:00:00",
+         "title":"RIFT OUTFITS IN STORE",
+         "type":2,
+         "version":"5.1.0",
+         "weight":2033.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5"
+         ],
+         "description":"The Dead by Daylight team would like your feedback in a Player Satisfaction survey.<br/><br/>We encourage you to be as honest as possible in letting us know how you feel about the game. The information and answers provided are anonymous, not shared with any third-party, and will not be used for purposes other than survey analysis.<br/><br/>Access the survey HERE: <a href=\"event:https://www.surveymonkey.com/r/PSATg-OCT21\"><font color=\"#ff0000\"><u>https://www.surveymonkey.com/r/PSATg-OCT21</u></font></a>",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"",
+         "isHidden":false,
+         "startDate":"2021-10-07T15:00:00",
+         "title":"PLAYER SATISFACTION SURVEY",
+         "type":4,
+         "version":"5.0.2",
+         "weight":2032.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5",
+            "switch"
+         ],
+         "description":"The Rift for Tome VIII will close on October 13th!<br/><br/>For those without a Rift Pass, this will be the last chance to unlock it and claim any rewards you've earned on the Premium track.<br/><br/>Once the Rift closes the below will come into effect:<li>Challenges, Entries, and Bloodpoints from Tome VII will remain available permanently after this date but no longer award Rift Fragments. Once the next Tome begins, Tome VII will be available in the Compendium section.</li><li>Player Level XP will stop awarding Rift Fragments.</li><li>Unclaimed rewards from the Rift will be automatically claimed on your next launch of the game or tally screen, whichever comes first.</li>",
+         "dwnImagePath":"",
+         "imageHeight":"",
+         "imagePath":"",
+         "isHidden":false,
+         "startDate":"2021-10-06T15:00:00",
+         "title":"RIFT CLOSES IN 1 WEEK",
+         "type":4,
+         "version":"5.2.0",
+         "weight":2031.0
+      },
+      {
+         "contentTags":[
+            "steam",
+            "xbox",
+            "ps4",
+            "grdk",
+            "stadia",
+            "xsx",
+            "ps5",
+            "switch"
+         ],
          "description":"Now available in the store:<li>Leatherface &#45; Pretty Woman</li>",
          "dwnImagePath":"",
          "imageHeight":"",
@@ -830,282 +932,6 @@
          "type":4,
          "version":"5.0.2",
          "weight":1138.0
-      },
-      {
-         "contentTags":[
-            "steam",
-            "xbox",
-            "ps4",
-            "grdk",
-            "stadia",
-            "xsx",
-            "ps5"
-         ],
-         "description":"High profile&#44; high style. Neon gets you noticed &#45; a perfect fit for The Trickster and Yun&#45;Jin.<br/><br/>Now available in the store: <li>The Trickster &#45; <b>Pressured Performer</b></li><li>Yun-Jin Lee &#45; <b>Midnight Fashionista</b></li><br/><br/>Check out the Collection Trailer: <a href=\"event:https://youtu.be/K4oqZdAOXbc\"><font color=\"#ff0000\"><u>youtu.be/K4oqZdAOXbc</u></font></a>",
-         "dwnImagePath":"",
-         "imageHeight":"",
-         "imagePath":"UI/Icons/NewContentSplash/splashBanner_NTYJ.png",
-         "isHidden":false,
-         "startDate":"2021-06-30T15:00:00",
-         "title":"The Trickster & Yun&#45;Jin",
-         "type":2,
-         "version":"5.0.2",
-         "weight":1136.0
-      },
-      {
-         "contentTags":[
-            "switch"
-         ],
-         "description":"High profile&#44; high style. Neon gets you noticed &#45; a perfect fit for The Trickster and Yun&#45;Jin.<br/><br/>Now available in the store: <li>The Trickster &#45; <b>Pressured Performer</b></li><li>Yun-Jin Lee &#45; <b>Midnight Fashionista</b></li>",
-         "dwnImagePath":"",
-         "imageHeight":"",
-         "imagePath":"UI/Icons/NewContentSplash/splashBanner_NTYJ.png",
-         "isHidden":false,
-         "startDate":"2021-06-30T15:00:00",
-         "title":"The Trickster & Yun&#45;Jin",
-         "type":2,
-         "version":"5.0.2",
-         "weight":1135.0
-      },
-      {
-         "contentTags":[
-            "switch"
-         ],
-         "description":"The game client has been updated to the 5.0.2 bugfix.<br/><br/><span class=\"Heading2\">BUG FIXES</span><li>Fixed an issue that could prevent downed survivors from being picked up when near certain walls or corners.</li><li>Fixed an issue that could cause Nemesis&#39; Tentacle strike to hit the Survivor through some of the windows and main building.</li><li>Fixed multiple issues in the Tutorial mode & Onboarding menu</li><br/><br/><span class=\"Heading2\">PERFORMANCE ISSUES</span><br/>This update contains a few changes that should improve performance for many players. That said&#44; some performance issues still remain. The team is still actively working on more fixes across multiple platforms&#44; including consoles. We will be monitoring the changes made within this bugfix patch for stability.</li><br/><br/>We&#39;re hoping this update will also help performance on the Raccoon City Police Station map&#44; but we want to ensure it is stable enough to be reinstated for live games. We will be monitoring how the map is doing in custom games with these new changes and provide you all with an update soon. <br/><br/>Thank you for your patience as we continue to work on further improvements to the game&#39;s performance!<br/><br/>Please see forum.deadbydaylight.com/en/kb/patchnotes for full patch notes.",
-         "dwnImagePath":"",
-         "imageHeight":"",
-         "imagePath":"",
-         "isHidden":false,
-         "startDate":"2021-06-29T15:00:00",
-         "title":"5.0.2 BUGFIX",
-         "type":4,
-         "version":"5.0.2",
-         "weight":1134.0
-      },
-      {
-         "contentTags":[
-            "steam",
-            "xbox",
-            "ps4",
-            "grdk",
-            "stadia",
-            "xsx",
-            "ps5"
-         ],
-         "description":"The game client has been updated to the 5.0.2 bugfix.<br/><br/><span class=\"Heading2\">BUG FIXES</span><li>Fixed an issue that could prevent downed survivors from being picked up when near certain walls or corners.</li><li>Fixed an issue that could cause Nemesis&#39; Tentacle strike to hit the Survivor through some of the windows and main building.</li><li>Fixed multiple issues in the Tutorial mode & Onboarding menu</li><br/><br/><span class=\"Heading2\">PERFORMANCE ISSUES</span><br/>This update contains a few changes that should improve performance for many players. That said&#44; some performance issues still remain. The team is still actively working on more fixes across multiple platforms&#44; including consoles. We will be monitoring the changes made within this bugfix patch for stability.</li><br/><br/>We&#39;re hoping this update will also help performance on the Raccoon City Police Station map&#44; but we want to ensure it is stable enough to be reinstated for live games. We will be monitoring how the map is doing in custom games with these new changes and provide you all with an update soon. <br/><br/>Thank you for your patience as we continue to work on further improvements to the game&#39;s performance!<br/><br/>Please see <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>forum.deadbydaylight.com/en/kb/patchnotes</u></font></a> for full patch notes.",
-         "dwnImagePath":"",
-         "imageHeight":"",
-         "imagePath":"",
-         "isHidden":false,
-         "startDate":"2021-06-29T15:00:00",
-         "title":"5.0.2 BUGFIX",
-         "type":4,
-         "version":"5.0.2",
-         "weight":1133.0
-      },
-      {
-         "contentTags":[
-            "switch"
-         ],
-         "description":"The game client has been updated to the 5.0.1 bugfix.<br/><br/><span class=\"Heading2\">BUG FIXES</span><li>Fixed a stability performance issue by improving the memory usage on the killer Nemesis.</li><li>Fixed an issue that prevented The Nemesis from interrupting survivors who are unlocking a supply case.</li><li>Fixed an issue that could cause the killer to become frozen in place if a Survivor disconnects while being carried.</li><li>Fixed an issue that could cause pallets to seemingly disappear when the user moves their camera at a certain angle.</li><li>Fixed an issue that could cause an invisible collision blocking the projectiles above an asset in Gas Haven.</li><li>Fixed an issue that could cause some unbreakable outfits to be breakable.</li><br/><br/><span class=\"Heading2\">OTHER</span><li>The Raccoon City Police Station map has been re&#45;enabled for custom matches while we continue to investigate certain stability issues.</li><li>The RPD Badge offering has been temporarily disabled. It can still be collected in bloodwebs but cannot be equipped for trials.</li><br/><br/><span class=\"Heading2\">KNOWN ISSUES</span><li>Various performance issues&#58; the team is still actively investigating performance issues across multiple platforms&#44; including consoles. Thank you for your patience as we work on a fix for this!</li><br/><br/>Please see forum.deadbydaylight.com/en/kb/patchnotes for full patch notes.",
-         "dwnImagePath":"",
-         "imageHeight":"",
-         "imagePath":"",
-         "isHidden":false,
-         "startDate":"2021-06-22T15:00:00",
-         "title":"5.0.1 BUGFIX",
-         "type":4,
-         "version":"5.0.1",
-         "weight":1132.0
-      },
-      {
-         "contentTags":[
-            "steam",
-            "xbox",
-            "ps4",
-            "grdk",
-            "stadia",
-            "xsx",
-            "ps5"
-         ],
-         "description":"The game client has been updated to the 5.0.1 bugfix.<br/><br/><span class=\"Heading2\">BUG FIXES</span><li>Fixed a stability performance issue by improving the memory usage on the killer Nemesis.</li><li>Fixed an issue that prevented The Nemesis from interrupting survivors who are unlocking a supply case.</li><li>Fixed an issue that could cause the killer to become frozen in place if a Survivor disconnects while being carried.</li><li>Fixed an issue that could cause pallets to seemingly disappear when the user moves their camera at a certain angle.</li><li>Fixed an issue that could cause an invisible collision blocking the projectiles above an asset in Gas Haven.</li><li>Fixed an issue that could cause some unbreakable outfits to be breakable.</li><br/><br/><span class=\"Heading2\">OTHER</span><li>The Raccoon City Police Station map has been re&#45;enabled for custom matches while we continue to investigate certain stability issues.</li><li>The RPD Badge offering has been temporarily disabled. It can still be collected in bloodwebs but cannot be equipped for trials.</li><br/><br/><span class=\"Heading2\">KNOWN ISSUES</span><li>Various performance issues&#58; the team is still actively investigating performance issues across multiple platforms&#44; including consoles. Thank you for your patience as we work on a fix for this!</li><br/><br/>Please see <a href=\"event:https://forum.deadbydaylight.com/en/kb/patchnotes\"><font color=\"#ff0000\"><u>forum.deadbydaylight.com/en/kb/patchnotes</u></font></a> for full patch notes.",
-         "dwnImagePath":"",
-         "imageHeight":"",
-         "imagePath":"",
-         "isHidden":false,
-         "startDate":"2021-06-22T15:00:00",
-         "title":"5.0.1 BUGFIX",
-         "type":4,
-         "version":"5.0.1",
-         "weight":1131.0
-      },
-      {
-         "contentTags":[
-            "steam",
-            "xbox",
-            "ps4",
-            "grdk",
-            "stadia",
-            "xsx",
-            "ps5",
-            "switch"
-         ],
-         "description":"We have temporarily disabled the Raccoon City Police Station map across all platforms.<br/><br/>We are investigating reports of crashes after loading into a Trial. The map will be re&#45;enabled when the issue is resolved. Thank you for your patience!<br/><br/>We know you&#39;re excited to explore the Raccoon City Police Station&#44; so here&#39;s something else to be excited about while we get this fixed up: Login any time between now and June 22nd 5PM EDT for 300&#44;000 Bloodpoints.",
-         "dwnImagePath":"",
-         "imageHeight":"",
-         "imagePath":"",
-         "isHidden":false,
-         "startDate":"2021-06-15T20:30:00",
-         "title":"DISABLED MAP",
-         "type":4,
-         "version":"5.0.0",
-         "weight":1130.0
-      },
-      {
-         "contentTags":[
-            "steam",
-            "xbox",
-            "ps4",
-            "grdk",
-            "stadia",
-            "xsx",
-            "ps5",
-            "switch"
-         ],
-         "description":"Offer ends June 22nd 11AM EDT. Discount limited to characters purchased in Auric Cells.<br/><br/><li>50&#37; off all characters before the All&#45;Kill chapter</li><li>30&#37; off on All&#45;Kill chapter characters</li>",
-         "dwnImagePath":"",
-         "imageHeight":"",
-         "imagePath":"UI/Icons/NewContentSplash/splashBanner_ENV.png",
-         "isHidden":false,
-         "startDate":"2021-06-15T15:00:00",
-         "title":"5th Anniversary Sale",
-         "type":2,
-         "version":"5.0.0",
-         "weight":1124.0
-      },
-      {
-         "contentTags":[
-            "steam",
-            "xbox",
-            "ps4",
-            "grdk",
-            "stadia",
-            "xsx",
-            "ps5"
-         ],
-         "description":"Iconic heroes. An infamous foe. A classic setting...<br/><br/>The Resident Evil Chapter includes a new map: The Raccoon City Police Station. Once home to the RPD&#39;s elite S.T.A.R.S. unit&#44; the labyrinthine hallways of this converted art museum are now overrun by the undead and host to a relentless evil.<br/><br/>The new Killer is Nemesis. Take control of Umbrella&#39;s bloodthirsty bio&#45;organic weapon and hunt your targets without mercy.<br/><br/>The new Survivors are Leon S. Kennedy and Jill Valentine. Unflinching in his mission to expose Umbrella&#44; Leon has proven himself a true survivor since his first day with the RPD. Jill is a brilliant S.T.A.R.S. agent&#44; one of the only surviving members of her unit&#44; and a hard target for even the most unrelenting adversary.<br/><br/>The Resident Evil Chapter includes:<li>A new Killer: Nemesis</li><li>2 new Survivors: Leon S. Kennedy and Jill Valentine</li><li>An exclusive universal charm: Umbrella Corporation</li><br/><br/>Watch the Chapter trailer here: <a href=\"event:https://youtu.be/m45Hi70RdLo\"><font color=\"#ff0000\"><u>youtu.be/m45Hi70RdLo</u></font></a><br/><br/><i>Please note that there will be a delay between the Resident Evil characters being available via our in&#45;game store and the full DLC package. Should you purchase a single character via our store; you will not receive the DLC exclusive item. We also remind you that in&#45;game store purchases are non&#45;refundable.</i>",
-         "dwnImagePath":"",
-         "imageHeight":"",
-         "imagePath":"UI/Icons/NewContentSplash/splashBanner_ECK.png",
-         "isHidden":false,
-         "startDate":"2021-06-15T15:00:00",
-         "title":"Resident Evil Chapter Release",
-         "type":2,
-         "version":"5.0.0",
-         "weight":1128.0
-      },
-      {
-         "contentTags":[
-            "switch"
-         ],
-         "description":"Iconic heroes. An infamous foe. A classic setting...<br/><br/>The Resident Evil Chapter includes a new map: The Raccoon City Police Station. Once home to the RPD&#39;s elite S.T.A.R.S. unit&#44; the labyrinthine hallways of this converted art museum are now overrun by the undead and host to a relentless evil.<br/><br/>The new Killer is Nemesis. Take control of Umbrella&#39;s bloodthirsty bio&#45;organic weapon and hunt your targets without mercy.<br/><br/>The new Survivors are Leon S. Kennedy and Jill Valentine. Unflinching in his mission to expose Umbrella&#44; Leon has proven himself a true survivor since his first day with the RPD. Jill is a brilliant S.T.A.R.S. agent&#44; one of the only surviving members of her unit&#44; and a hard target for even the most unrelenting adversary.<br/><br/>The Resident Evil Chapter includes:<li>A new Killer: Nemesis</li><li>2 new Survivors: Leon S. Kennedy and Jill Valentine</li><li>An exclusive universal charm: Umbrella Corporation</li><br/><br/><i>Please note that there will be a delay between the Resident Evil characters being available via our in&#45;game store and the full DLC package. Should you purchase a single character via our store; you will not receive the DLC exclusive item. We also remind you that in&#45;game store purchases are non&#45;refundable.</i>",
-         "dwnImagePath":"",
-         "imageHeight":"",
-         "imagePath":"UI/Icons/NewContentSplash/splashBanner_ECK.png",
-         "isHidden":false,
-         "startDate":"2021-06-15T15:00:00",
-         "title":"Resident Evil Chapter Release",
-         "type":2,
-         "version":"5.0.0",
-         "weight":1127.0
-      },
-      {
-         "contentTags":[
-            "steam",
-            "xbox",
-            "ps4",
-            "grdk",
-            "stadia",
-            "xsx",
-            "ps5",
-            "switch"
-         ],
-         "description":"Leon&#39;s classic Sheep Wool Jacket look is here to add some RE4 nostalgia to your next trial.<br/><br/>Now available in the store:<li>Leon S. Kennedy &#45; <b>Persistent Investigator</b></li>",
-         "dwnImagePath":"",
-         "imageHeight":"",
-         "imagePath":"UI/Icons/NewContentSplash/splashBanner_CJL.png",
-         "isHidden":false,
-         "startDate":"2021-06-15T15:00:00",
-         "title":"Leon",
-         "type":2,
-         "version":"5.0.0",
-         "weight":1125.0
-      },
-      {
-         "contentTags":[
-            "steam",
-            "xbox",
-            "ps4",
-            "grdk",
-            "stadia",
-            "xsx",
-            "ps5",
-            "switch"
-         ],
-         "description":"Legendary characters&#44; iconic outfits. Tap Chris and Claire Redfield and bring some extra backup into the Fog. <br/><br/>Now available in the store:<li>Leon S. Kennedy &#45; <b>Chris Redfield</b></li><li>Jill Valentine &#45; <b>Claire Redfield</b></li><li>Jill Valentine &#45; <b>Impervious Agent</b></li>",
-         "dwnImagePath":"",
-         "imageHeight":"",
-         "imagePath":"UI/Icons/NewContentSplash/splashBanner_CC.png",
-         "isHidden":false,
-         "startDate":"2021-06-15T15:00:00",
-         "title":"Claire&#44; Chris & Jill",
-         "type":2,
-         "version":"5.0.0",
-         "weight":1126.0
-      },
-      {
-         "contentTags":[
-            "steam",
-            "xbox",
-            "ps4",
-            "grdk",
-            "stadia",
-            "xsx",
-            "ps5",
-            "switch"
-         ],
-         "description":"Welcome to Chapter 20&#33; Please read the below for a quick summary of the new content you&#39;ll find.<br/><br/>For a full list of patch notes&#44; please see https://forum.deadbydaylight.com/en/kb/patchnotes<br/><br/><span class=\"Heading2\">FEATURES</span><br/><li>Added The Nemesis, Jill Valentine and Leon S. Kennedy</li><li>Added a new map &#45; Raccoon City Police Station</li><li>Improved Tutorials</li><br/><span class=\"Heading2\">CONTENT</span><br/><li>Trapper Update</li><li>5th Anniversary Event</li><br/><span class=\"Heading2\">BUG FIXES</span><br/><li>Multiple fixes to perks, powers, maps, collisions, animations & customizations</li><br/><span class=\"Heading2\">MAP ROTATION</span><br/><li>The Thompson House map has been re-enabled and available in the map rotation.</li><li>The Temple Of Purgation map has been temporarily disabled due to an issue that prevents the Killer from accessing certain areas of the map. It is currently being investigated.</li>",
-         "dwnImagePath":"",
-         "imageHeight":"",
-         "imagePath":"",
-         "isHidden":false,
-         "startDate":"2021-06-15T15:00:00",
-         "title":"Patch Notes",
-         "type":3,
-         "version":"5.0.0",
-         "weight":1123.0
-      },
-      {
-         "contentTags":[
-            "steam",
-            "xbox",
-            "ps4",
-            "grdk",
-            "stadia",
-            "xsx",
-            "ps5",
-            "switch"
-         ],
-         "description":"Level IV of Tome VII is now available! With it comes the below:<li>21 Challenges (incl. 5 Master Challenges & 1 Glyph Challenge)</li><li>5 Memory and Log Entries (including the <b>final entries for The Observer&#39;s Logs in &#34;Universus Alveo&#34;</b>)</li><li>More Bloodpoints</li><br/><br/>To access Level IV&#44; you must have reached the Epilogue node of Level III with either role.",
-         "dwnImagePath":"",
-         "imageHeight":"",
-         "imagePath":"UI/Icons/NewContentSplash/splashBanner_AT7.png",
-         "isHidden":false,
-         "startDate":"2021-06-23T15:00:00",
-         "title":"THE OBSERVER&#39;S &#34;UNIVERSUS ALVEO&#34;",
-         "type":2,
-         "version":"4.7.0",
-         "weight":1120.0
       },
       {
          "contentTags":[
