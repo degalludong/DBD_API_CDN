@@ -18,7 +18,7 @@ decr_key = base64.b64decode(CDNKeys.legacykey)
 def decrypt(body):
         cipher = AES.new(decr_key, AES.MODE_ECB)
         encbody = body[8:]
-        b64_body = base64.b64decode(raw)
+        b64_body = base64.b64decode(encbody)
         
         input_body = b64_body
         dcrpted_v1 = cipher.decrypt(input_body)
