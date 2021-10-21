@@ -969,7 +969,7 @@
             "startDate":"2021-09-23T15:00:00"
          },
          {
-            "endDate":"2021-10-30T14:59:59",
+            "endDate":"2021-10-19T14:59:59",
             "ids":[
                "Banner_GW1",
                "Banner_GAS",
@@ -978,6 +978,84 @@
                "Banner_HRS1"
             ],
             "startDate":"2021-09-30T15:00:00"
+         },
+         {
+            "endDate":"2021-10-21T14:59:59",
+            "ids":[
+               "Banner_HFO1",
+               "Banner_HFO2",
+               "Banner_STS",
+               "Banner_GW1",
+               "Banner_GAS"
+            ],
+            "startDate":"2021-10-19T15:00:00"
+         },
+         {
+            "endDate":"2021-10-26T14:59:59",
+            "ids":[
+               "Banner_HS1",
+               "Banner_HFO1",
+               "Banner_HFO2",
+               "Banner_STS"
+            ],
+            "startDate":"2021-10-21T15:00:00"
+         },
+         {
+            "endDate":"2021-10-28T14:59:59",
+            "ids":[
+               "Banner_HFO3",
+               "Banner_HS1",
+               "Banner_HFO1",
+               "Banner_HFO2",
+               "Banner_STS"
+            ],
+            "startDate":"2021-10-26T15:00:00"
+         },
+         {
+            "endDate":"2021-10-31T14:59:59",
+            "ids":[
+               "Banner_HFO4",
+               "Banner_HFO3",
+               "Banner_HS1",
+               "Banner_HFO1",
+               "Banner_HFO2",
+               "Banner_STS"
+            ],
+            "startDate":"2021-10-28T15:00:00"
+         },
+         {
+            "endDate":"2021-11-04T14:59:59",
+            "ids":[
+               "Banner_HFO4",
+               "Banner_HFO3",
+               "Banner_HFO1",
+               "Banner_HFO2",
+               "Banner_STS"
+            ],
+            "startDate":"2021-10-31T15:00:00"
+         },
+         {
+            "endDate":"2021-11-17T14:59:59",
+            "ids":[
+               "Banner_HFO5",
+               "Banner_HFO4",
+               "Banner_HFO3",
+               "Banner_HS1",
+               "Banner_HFO1",
+               "Banner_STS"
+            ],
+            "startDate":"2021-11-04T15:00:00"
+         },
+         {
+            "endDate":"2021-12-10T14:59:59",
+            "ids":[
+               "Banner_HFO5",
+               "Banner_HFO4",
+               "Banner_HFO3",
+               "Banner_HS1",
+               "Banner_HFO1"
+            ],
+            "startDate":"2021-11-17T15:00:00"
          }
       ],
       "right":[
@@ -1054,11 +1132,18 @@
             "startDate":"2021-06-15T15:00:00"
          },
          {
-            "endDate":"2021-10-30T15:00:00",
+            "endDate":"2021-10-19T14:59:59",
             "ids":[
                "Banner_HRS_small"
             ],
             "startDate":"2021-09-07T15:00:00"
+         },
+         {
+            "endDate":"2021-12-01T14:59:59",
+            "ids":[
+               "Banner_HDLC_small"
+            ],
+            "startDate":"2021-10-19T15:00:00"
          }
       ]
    },
