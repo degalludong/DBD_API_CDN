@@ -64,7 +64,7 @@
       "keyName":"BUTTON_SEQUENCE_ENABLE"
    },
    {
-      "value":"<redacted>",
+      "value":"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuq878RHxy7gwEGnjh/vXcOH+1evTjEA9ygzmKEmG4s2xfNTXgneht6IsCSt5rGgpB3SabgdfUlfZyNNcwx18H7PGdsEwDcbrpZvNsgVt12oSXANjUaWDhUFJ1mVV3QmRIMyknWsA7pRX5Vy1Jr9vZ6IfFopGD++OEGsGooCA7CLGi0+E2v9UvKu/CU+PeaLNTriLa/R8B2YnhmNtSa94U+6sxNt4tzY85+TOfM7SMIgagQcZgREnXsSYhHWs4zfrz6ANaKzi4x0Tep0rK1kTnVv431+VA2zcvFahujVYncQIim+Ivee3TttJMBygxQUGR2/0qJfMkjitldpR3c3sIQIDAQAB",
       "keyName":"KRAKEN_RSA_PUBLIC_KEY"
    },
    {
@@ -362,12 +362,12 @@
          },
          "fallback":{
             "ios":{
-               "date":"2021-09-01T15:00:00.000Z",
-               "version":"5.0.2004"
+               "date":"2021-10-14T15:00:00.000Z",
+               "version":"5.1.0014"
             },
             "android":{
-               "date":"2021-09-15T15:00:00.000Z",
-               "version":"5.0.2006"
+               "date":"2021-10-14T15:00:00.000Z",
+               "version":"5.1.0014"
             }
          }
       },
@@ -379,8 +379,8 @@
    },
    {
       "value":{
-         "DeltaDnaEngageAddress":"<redacted>",
-         "DeltaDnaAnalytics":"<redacted>",
+         "DeltaDnaEngageAddress":"https://engage14352dbdmb.deltadna.net/86609205096052418441976264915429",
+         "DeltaDnaAnalytics":"https://collect14352dbdmb.deltadna.net/collect/api/86609205096052418441976264915429",
          "KrakenAnalyticsV2":"https://gamelogs.live.bhvrdbd.com/api/v1/gameDataAnalytics/v2/batch",
          "KrakenAnalytics":"https://gamelogs.live.bhvrdbd.com/api/v1/gameDataAnalytics/batch",
          "KrakenLogs":"https://gamelogs.live.bhvrdbd.com/api/v1/gameLogs/batch"
@@ -398,7 +398,7 @@
       "keyName":"ASSET_MANAGEMENT_CDN_PATH"
    },
    {
-      "value":"<redacted>",
+      "value":"4fabea45-bce0-4461-8950-162659636437",
       "keyName":"CDN_ROOT_FOLDER_PATH"
    },
    {
@@ -827,8 +827,23 @@
          "5.2.0_481139live":"5.2.0_481139live-1632160436",
          "5.2.0_482533live":"5.2.0_482533live-1632424085",
          "5.2.0_483509live":"5.2.0_483509live-1632756963",
+         "5.2.0_487351live":"5.2.0_487351live-1633619492",
          "5.3.0_483529live":"5.3.0_483529live-1632757753",
+         "5.3.0_487519live":"5.3.0_487519live-1633633784",
+         "5.3.0_487902live":"5.3.0_487902live-1633708225",
+         "5.3.0_489365live":"5.3.0_489365live-1634240450",
+         "5.3.0_489889live":"5.3.0_489889live-1634422202",
+         "5.3.0_489894live":"5.3.0_489894live-1634581334",
+         "5.3.0_490180live":"5.3.0_490180live-1634584467",
+         "5.3.0_490219live":"5.3.0_490219live-1634586838",
+         "5.3.0_490284live":"5.3.0_490284live-1634591211",
+         "5.3.0_490530live":"5.3.0_490530live-1634658182",
+         "5.3.0_490551live":"5.3.0_490551live-1634659187",
+         "5.3.0_490707live":"5.3.0_490707live-1634670668",
+         "5.3.0_490967live":"5.3.0_490967live-1634739208",
+         "5.3.0_491050live":"5.3.0_491050live-1634752057",
          "5.4.0_485214live":"5.4.0_485214live-1633034046",
+         "5.4.0_489741live":"5.4.0_489741live-1634325637",
          "m_3.3.3_220000live":"m_3.3.3_220000live-1574880017",
          "m_3.3.3_249880live":"m_3.3.3_249880live-1574865740",
          "m_3.3.3_249941live":"m_3.3.3_249941live-1574867268",
@@ -895,7 +910,10 @@
          "m_5.1.0_483589live":"m_5.1.0_483589live-1632764553",
          "m_5.1.0_484035live":"m_5.1.0_484035live-1632929970",
          "m_5.1.0_484899live":"m_5.1.0_484899live-1633020255",
-         "m_5.1.0_486247live":"m_5.1.0_486247live-1633444921"
+         "m_5.1.0_486247live":"m_5.1.0_486247live-1633444921",
+         "m_5.1.0_487038live":"m_5.1.0_487038live-1633620486",
+         "m_5.1.0_488306live":"m_5.1.0_488306live-1634059291",
+         "m_5.1.0_490536live":"m_5.1.0_490536live-1634658832"
       },
       "keyName":"VER_CLIENT_DATA"
    },
@@ -935,7 +953,7 @@
       "keyName":"ENABLE_RTM_VALIDATION_ON_BOOT"
    },
    {
-      "value":"<redacted>",
+      "value":"paNOt2JkswAXOt7TRxqGH9vksAYE5CgG",
       "keyName":"DELTA_DNA_HASH_KEY"
    },
    {
