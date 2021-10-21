@@ -1,4 +1,172 @@
 {
+   "analyticsEndpoints":{
+      "DeltaDnaAnalytics":"https://collect14352dbdmb.deltadna.net/collect/api/86609205096052418441976264915429",
+      "DeltaDnaEngageAddress":"https://engage14352dbdmb.deltadna.net/86609205096052418441976264915429",
+      "KrakenAnalytics":"https://gamelogs.live.bhvrdbd.com/api/v1/gameDataAnalytics/batch",
+      "KrakenAnalyticsV2":"https://gamelogs.live.bhvrdbd.com/api/v1/gameDataAnalytics/v2/batch",
+      "KrakenLogs":"https://gamelogs.live.bhvrdbd.com/api/v1/gameLogs/batch"
+   },
+   "analyticsPayloadSizeLimit":1887436,
+   "analyticsRules":{
+      "AF":[
+         "af_complete_registrationAnalytics",
+         "af_killer_tutorial_completionAnalytics",
+         "af_loginAnalytics",
+         "af_survivor_tutorial_completionAnalytics"
+      ],
+      "BL":[
+         "AtlantaControlsSettingsAnalytics",
+         "GameInitAnalytics",
+         "InteractionAnalytics",
+         "LogMirrorsAnalytics",
+         "MatchmakingHostSettingAnalytics",
+         "MatchmakingSearchParamAnalytics",
+         "MatchmakingSearchResultAnalytics",
+         "MatchmakingSurviveWithFriendsAnalytics",
+         "PerformanceChartingAnalytics",
+         "RTMAnalytics",
+         "SyncLoadAnalytics"
+      ],
+      "DD":[
+         "AtlantaDeepLinkAnalytics",
+         "AtlantaGraphicsSettingsAnalytics",
+         "AtlantaKillerTutorialAnalytics",
+         "AtlantaPartyGameAnalytics",
+         "AtlantaPerkSelectionAnalytics",
+         "AtlantaPlayerLevelAnalytics",
+         "AtlantaPurchasePopupAnalytics",
+         "AtlantaQuitGameAnalytics",
+         "AtlantaSessionStartAnalytics",
+         "AtlantaSurvivorTutorialAnalytics",
+         "BloodMarketAdsAnalytics",
+         "BloodMarketRefreshAnalytics",
+         "BloodMarketTransactionAnalytics",
+         "DailyCalendarRewardAnalytics",
+         "FreeTicketAnalytics",
+         "MatchmakingIncentiveAnalytics",
+         "MobileBannerClickedAnalytics",
+         "MobileCdnDownloadAnalytics",
+         "MobileLoginAnalytics",
+         "MobilePostGameAnalytics",
+         "NewPlayerAnalytics"
+      ],
+      "KA":[
+         "ArchiveVignetteEntryAnalytics",
+         "ArchiveVignetteVideoAnalytics",
+         "AtlantaCampaignEventAnalytics",
+         "CannibalAnalytics",
+         "CrowdChoiceOnGameRoundStartedAnalytics",
+         "CrowdChoiceSummaryResultAnalytics",
+         "CrowdChoiceVoteResultAnalytics",
+         "CrowdPlayLobbyEventsAnalytics",
+         "CrowdPlayLobbyResultsAnalytics",
+         "CustomizationLobbyAnalytics",
+         "DailyRitualAnalytics",
+         "DetailedHitAnalytics",
+         "DetailedScoreAnalytics",
+         "EmblemProgressionAnalytics",
+         "EndpointLatencyAnalytics",
+         "FranklinsDemiseConsumedItemAnalytics",
+         "FranklinsHitNearDroppedItemAnalytics",
+         "FreeTrialLoginAnalytics",
+         "GameOnTournamentParticipationInfoAnalytics",
+         "Gameplay_ChaseAnalytics",
+         "Gameplay_KillerAnalytics",
+         "Gameplay_PigKillerAnalytics",
+         "Gameplay_PigSurvivorAnalytics",
+         "Gameplay_SurvivorAnalytics",
+         "GhostKillerAnalytics",
+         "HeartbeatAnalytics",
+         "HillbillyAnalytics",
+         "HookAnalytics",
+         "KillerTutorialAnalytics",
+         "KnockoutSurvivorFoundAnalytics",
+         "LegionKillerAnalytics",
+         "LegionSurvivorAnalytics",
+         "LightbornAuraRevealedAnalytics",
+         "LoadOutLobbyAnalytics",
+         "LoadingStepAnalytics",
+         "LoadingTimeoutAnalytics",
+         "MapCoordAnalytics",
+         "MatchRatingAnalytics",
+         "MatchmakingLobbyAnalytics",
+         "MatchmakingQueueAnalytics",
+         "MemoryUsageAnalytics",
+         "MenuFlowAnalytics",
+         "PerkAcquisitionAnalytics",
+         "PlagueSurvivorAnalytics",
+         "ProceduralGenerationAnalytics",
+         "QueueAnalytics",
+         "S3CommandAnalytics",
+         "ScoreAnalytics",
+         "StadiaLivestreamAnalytics",
+         "StadiaStreamAnalytics",
+         "StoreMenuFlowAnalytics",
+         "SurvivorTutorialAnalytics",
+         "TinkererUndetectableHitNearGeneratorAnalytics",
+         "TinkererUndetectableInterruptAnalytics",
+         "TransactionAnalytics",
+         "WaitTimeAnalytics"
+      ],
+      "KAL":[
+         "AtlantaActivablePerkAnalytics",
+         "ChatAnalytics",
+         "CurrencyBalanceAnalytics",
+         "CustomizationAnalytics",
+         "EnvironmentAnalytics",
+         "FrameHikeAnalytics",
+         "InvalidLoadoutAnalytics",
+         "LevelLoadingStepAnalytics",
+         "LevelLoadingTimeoutAnalytics",
+         "LoadOutAnalytics",
+         "MatchInfoAnalytics",
+         "PerformanceAnalytics",
+         "PostGame_KillerAnalytics",
+         "PostGame_SurvivorAnalytics",
+         "ReportAnalytics",
+         "SubscriptionRewardsAnalytics",
+         "WalesCypherAnalytics"
+      ],
+      "KL":[
+         "ClientLoginAnalytics",
+         "CustomerSupportAnalytics",
+         "CustomerSupportClientLoginAnalytics",
+         "DDoSDetectionAnalytics",
+         "DisconnectionAnalytics",
+         "EACClientAuthChallengeAnalytics",
+         "EACClientAuthInitAnalytics",
+         "EACClientInitAnalytics",
+         "EACClientViolationAnalytics",
+         "EACServerValidateAnalytics",
+         "EntitlementAnalytics",
+         "ErrorAnalytics",
+         "FallOutOfWorldAnalytics",
+         "FrameTravelTimeAnalytics",
+         "GameEventLogAnalytics",
+         "HeartbeatPerfAnalytics",
+         "KrakenRequestAnalytics",
+         "LogAnalytics",
+         "LogPresencePluginAnalytics",
+         "MatchmakingApproveLoginAnalytics",
+         "MatchmakingHostCreatedAnalytics",
+         "MatchmakingJoinCompleteAnalytics",
+         "MatchmakingJoinSessionAnalytics",
+         "MatchmakingSearchCompleteAnalytics",
+         "MatchmakingSessionSpotReservationAnalytics",
+         "PartyJoinFailureAnalytics",
+         "S3CommandErrorAnalytics",
+         "SaveGameErrorAnalytics",
+         "SaveGameLoadResultAnalytics",
+         "SaveGameSaveResultAnalytics",
+         "SaveGameSummaryCharacterStatsAnalytics",
+         "SaveGameSummaryPlayerStatsAnalytics",
+         "ShopAnalytics",
+         "SpecialEventAnalytics",
+         "SpecialEventBaseAnalytics"
+      ]
+   },
+   "appsflyerCustomerIdEnabled":false,
+   "assetManagementCdnPath":"https://cdn.live.dbd.bhvronline.com",
    "beginnerTutorialLevel":{
       "levelToHideTutorial":5,
       "prestigeToHideTutorial":0
@@ -22,14 +190,41 @@
          "ps4"
       ]
    },
+   "buttonSequenceEnable":{
+      "WalesCypher":true
+   },
+   "cancelMatchOnDisconnectDuringLoading":true,
+   "cdnRootFolderPath":"4fabea45-bce0-4461-8950-162659636437",
+   "ddosDetection":true,
+   "ddosDetectionAnalytics":true,
    "dedicatedServer":{
       "latencyRetryCooldownSeconds":600
    },
+   "deltaDnaHashKey":"paNOt2JkswAXOt7TRxqGH9vksAYE5CgG",
+   "disableBloodlust":false,
+   "displayRankOnTally":true,
+   "enableRtmValidationOnBoot":true,
+   "frameHikeAnalyticsLogBufferSize":5,
+   "frameHikeThreshold":10,
    "friendsList":{
       "maxFriendSuggestionsFacebook":4,
       "maxFriendSuggestionsGoogle":4,
       "maxFriendSuggestionsRecentlyPlayed":4
    },
+   "gameliftEndpoints":{
+      "ap-northeast-1":"https://gamelift.ap-northeast-1.amazonaws.com/ping",
+      "ap-northeast-2":"https://gamelift.ap-northeast-2.amazonaws.com/ping",
+      "ap-south-1":"https://gamelift.ap-south-1.amazonaws.com/ping",
+      "ap-southeast-1":"https://gamelift.ap-southeast-1.amazonaws.com/ping",
+      "ap-southeast-2":"https://gamelift.ap-southeast-2.amazonaws.com/ping",
+      "eu-central-1":"https://gamelift.eu-central-1.amazonaws.com/ping",
+      "eu-west-1":"https://gamelift.eu-west-1.amazonaws.com/ping",
+      "sa-east-1":"https://gamelift.sa-east-1.amazonaws.com/ping",
+      "us-east-1":"https://gamelift.us-east-1.amazonaws.com/ping",
+      "us-west-2":"https://gamelift.us-west-2.amazonaws.com/ping"
+   },
+   "gameliftIdleInstanceShutdownTimer":86400,
+   "gameliftInstanceShutdownTimer":7200,
    "hitValidation":{
       "enable":true,
       "enableCollisionCheck":false,
@@ -74,10 +269,22 @@
          }
       ]
    },
+   "hvsAnalyticsRules":{
+      "DetailedScoreAnalytics":"HVSPlus",
+      "FrameHikeAnalytics":"HVSStrict",
+      "Gameplay_ChaseAnalytics":"HVSStrict",
+      "LoadingStepAnalytics":"HVSStrict",
+      "MemoryUsageAnalytics":"HVSStrict",
+      "MenuFlowAnalytics":"HVSStrict",
+      "QueueAnalytics":"HVSStrict",
+      "S3CommandAnalytics":"HVSStrict"
+   },
    "jwt":{
       "enabled":true,
-      "publicKey":"<redacted>"
+      "publicKey":"LS0tLS1CRUdJTiBQVUJMSUMgS0VZLS0tLS0KTUlJQklqQU5CZ2txaGtpRzl3MEJBUUVGQUFPQ0FROEFNSUlCQ2dLQ0FRRUFvVHc2Mk5NQ0dtNVVOWjUzeTNaagp0Y1dxRk5jOE83UlRzQ0d2WHNCOWRNRGFqRzFnOTFyUzZEc2hiWTJFNk84MVlRdGlSUGRYcUgzcWVLUjcvdU53CkhwOWVVbWM4NzVPcS9xQldkWldjZEk0V3RmUWM3Z0FrMzR0ZUhhMU10VG1XL3QrVEtVajJBekRjVHZXNkpjcXUKWmdqRzkvSlR2dzM4RzEyQXFjWHZ5K3hFam4zL2ptQ0oxOGZWWWRuQ0I1ZWFEQkFoMFluTzQxaGIyODZDS0pwRwozT25wTHFyeWlzVzFnOTZ1ZWxKQnhVelRydnVKK2JJS2VFSWdqdURobHpaNU4yeW5tbHNodXlRWm15ME50VE14CjNqMlVoSkNtS3JsNTdKMzhnUnpRczJqSDBKT3ExZkhsOEhXMHlUT1dLQVNxbkNqaVp0NG5QUGJVdXpVY1JYcEEKeXdJREFRQUIKLS0tLS1FTkQgUFVCTElDIEtFWS0tLS0tCg=="
    },
+   "krakenRequestAnalyticsLevel":"NetworkError",
+   "krakenRsaPublicKey":"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuq878RHxy7gwEGnjh/vXcOH+1evTjEA9ygzmKEmG4s2xfNTXgneht6IsCSt5rGgpB3SabgdfUlfZyNNcwx18H7PGdsEwDcbrpZvNsgVt12oSXANjUaWDhUFJ1mVV3QmRIMyknWsA7pRX5Vy1Jr9vZ6IfFopGD++OEGsGooCA7CLGi0+E2v9UvKu/CU+PeaLNTriLa/R8B2YnhmNtSa94U+6sxNt4tzY85+TOfM7SMIgagQcZgREnXsSYhHWs4zfrz6ANaKzi4x0Tep0rK1kTnVv431+VA2zcvFahujVYncQIim+Ivee3TttJMBygxQUGR2/0qJfMkjitldpR3c3sIQIDAQAB",
    "matchmakingCrossplayPlatforms":{
       "dmm":false,
       "grdk":true,
@@ -89,6 +296,28 @@
       "xbox":true,
       "xsx":true
    },
+   "matchmakingIncentive":{
+      "killer":{
+         "acceptable_ratio":0.33,
+         "long_ratio":0.56,
+         "moderate_ratio":0.43
+      },
+      "survivor":{
+         "acceptable_ratio":0.86,
+         "long_ratio":0.92,
+         "moderate_ratio":0.9
+      }
+   },
+   "mirrorsDefaultRetryPolicy":{
+      "enabled":true,
+      "retryCount":3,
+      "timeout":5
+   },
+   "netConnectionClampToAverageFramerate":true,
+   "recommendationRecentReleaseThreshold":7,
+   "richPresencePlayerTimerRate":830,
+   "richPresenceServerTimerRate":0,
+   "segmentationV2Enabled":true,
    "socialCrossfriendsPlatforms":{
       "dmm":false,
       "grdk":true,
@@ -110,5 +339,6 @@
       "switch":false,
       "xbox":false,
       "xsx":false
-   }
+   },
+   "socialPlatformFriendlistQueryRate":10
 }
