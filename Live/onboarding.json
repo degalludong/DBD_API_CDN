@@ -13,6 +13,7 @@
          "prestige":0
       }
    ],
+   "enabled":true,
    "sbm":{
       "enabled":true,
       "inGameTimeToValidateLoss":900,
