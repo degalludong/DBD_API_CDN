@@ -1,1 +1,9 @@
-{'characterFallback': {'defaultKiller': 'Chuckles', 'defaultSurvivor': 'Dwight'}, 'disabledItems': []}
+{
+   "characterFallback":{
+      "defaultKiller":"Chuckles",
+      "defaultSurvivor":"Dwight"
+   },
+   "disabledItems":[
+      
+   ]
+}
