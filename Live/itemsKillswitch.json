@@ -1,13 +1,1 @@
-{
-   "characterFallback":{
-      "defaultKiller":"Chuckles",
-      "defaultSurvivor":"Dwight"
-   },
-   "disabledItems":[
-      "UkraineThemeOffering",
-      "JapaneseCountrySide",
-      "Jigsawpiece",
-      "ShatteredGlasses",
-      "S28P02"
-   ]
-}
+{'characterFallback': {'defaultKiller': 'Chuckles', 'defaultSurvivor': 'Dwight'}, 'disabledItems': []}
